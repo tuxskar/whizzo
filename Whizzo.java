@@ -25,6 +25,15 @@ class Customer {
 }
 
 /*(NULL)*/
+class ModelManager {
+
+	public ModelManager() {
+		
+	}
+
+}
+
+/*(NULL)*/
 class Z implements Machine {
 	public List<product> products = RamBladderCup:5;
 	public Z type;
@@ -143,6 +152,54 @@ class RamBladerCup implements Chocolate {
 
 	/** 	 */
 	public static void ramBladerCup (RAMTYPE type) {
+		
+	}
+
+}
+
+/*(NULL)*/
+class DataBaseManager {
+	public DataBaseManager DBManager;
+	public String DBName = "whizzo.db";
+
+	public DataBaseManager() {
+		
+	}
+
+	/** instance DatabaseManager */
+	public static void DataBaseManager() () {
+		
+	}
+
+	public void insertChocolate (Chocolate choc) {
+		
+	}
+
+	public void deleteChocolate (Chocolate choc) {
+		
+	}
+
+	public void insertOrder (Order order) {
+		
+	}
+
+	public void deleteOrder (Order order) {
+		
+	}
+
+	public void insertCustomer (Customer cus) {
+		
+	}
+
+	public void deleteCustomer (Int Id) {
+		
+	}
+
+	public void insertMachine (Machine mach) {
+		
+	}
+
+	public void deleteMachine (Machine mach) {
 		
 	}
 
