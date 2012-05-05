@@ -25,7 +25,7 @@ class Customer {
 }
 
 /*(NULL)*/
-class ModelManager {
+class ModelManager extends java::util::Observable {
 
 	public ModelManager() {
 		
@@ -68,6 +68,28 @@ class MACHINETYPE {
 
 }
 
+/*(NULL)*/
+class java::util::Observer {
+
+	public java::util::Observer() {
+		
+	}
+
+	public void update (Observable o, Object arg) {
+		
+	}
+
+}
+
+/*(NULL)*/
+class java::util::Observable {
+
+	public java::util::Observable() {
+		
+	}
+
+}
+
 class CholoateOrder {
 	public Int amount;
 	public Chocolate choc;
@@ -85,6 +107,15 @@ class CholoateOrder {
 	}
 
 	public Chocolate getChoc () {
+		
+	}
+
+}
+
+/*(NULL)*/
+class Server {
+
+	public Server() {
 		
 	}
 
@@ -213,6 +244,19 @@ class CrunchyFrog implements Chocolate {
 	}
 
 	public CHOCOLATETYPE chocolateType () {
+		
+	}
+
+}
+
+/*(NULL)*/
+class TerminalView implements java::util::Observer {
+
+	public TerminalView() {
+		
+	}
+
+	public void update (Observable o, Object arg) {
 		
 	}
 
