@@ -32,7 +32,6 @@ class ModelManager extends java::util::Observable {
 
 }
 
-/*(NULL)*/
 class Product {
 	public CHOCOLATETYPE chocType;
 	public Int productTime;
