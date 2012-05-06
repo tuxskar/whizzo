@@ -24,7 +24,6 @@ class Customer {
 
 }
 
-/*(NULL)*/
 class ModelManager extends java::util::Observable {
 
 	public ModelManager() {
@@ -34,6 +33,20 @@ class ModelManager extends java::util::Observable {
 }
 
 /*(NULL)*/
+class Product {
+	public CHOCOLATETYPE chocType;
+	public Int productTime;
+
+	public Product() {
+		
+	}
+
+	public void product (CHOCOLATETYPE choc, Int producttime) {
+		
+	}
+
+}
+
 class Z implements Machine {
 	public List<product> products = RamBladderCup:5;
 	public Z type;
@@ -56,7 +69,6 @@ class Z implements Machine {
 
 }
 
-/*(NULL)*/
 class MACHINETYPE {
 	public  X;
 	public  Y;
@@ -68,7 +80,6 @@ class MACHINETYPE {
 
 }
 
-/*(NULL)*/
 class java::util::Observer {
 
 	public java::util::Observer() {
@@ -81,7 +92,6 @@ class java::util::Observer {
 
 }
 
-/*(NULL)*/
 class java::util::Observable {
 
 	public java::util::Observable() {
@@ -112,7 +122,6 @@ class CholoateOrder {
 
 }
 
-/*(NULL)*/
 class Server {
 
 	public Server() {
@@ -121,7 +130,6 @@ class Server {
 
 }
 
-/*(NULL)*/
 class Chocolate {
 	public CHOCOLATETYPE type;
 	public Int value;
@@ -140,7 +148,6 @@ class Chocolate {
 
 }
 
-/*(NULL)*/
 class Machine {
 	public MACHINETYPE type;
 	public List<Product> products;
@@ -169,7 +176,6 @@ class Machine {
 
 }
 
-/*(NULL)*/
 class RamBladerCup implements Chocolate {
 	public RAMTYPE type;
 
@@ -188,7 +194,6 @@ class RamBladerCup implements Chocolate {
 
 }
 
-/*(NULL)*/
 class DataBaseManager {
 	public DataBaseManager DBManager;
 	public String DBName = "whizzo.db";
@@ -236,7 +241,6 @@ class DataBaseManager {
 
 }
 
-/*(NULL)*/
 class CrunchyFrog implements Chocolate {
 
 	public CrunchyFrog() {
@@ -249,7 +253,6 @@ class CrunchyFrog implements Chocolate {
 
 }
 
-/*(NULL)*/
 class TerminalView implements java::util::Observer {
 
 	public TerminalView() {
@@ -262,7 +265,6 @@ class TerminalView implements java::util::Observer {
 
 }
 
-/*(NULL)*/
 class RAMTYPE {
 	public  SQUARE;
 	public  OVAL;
@@ -275,7 +277,6 @@ class RAMTYPE {
 
 }
 
-/*(NULL)*/
 class SpringSurprise implements Chocolate {
 	public Bool wrapped;
 	public COLOR color;
@@ -294,7 +295,6 @@ class SpringSurprise implements Chocolate {
 
 }
 
-/*(NULL)*/
 class X implements Machine {
 	public List<Product> products = CrunchyFrog:2,SpringSurprise:7;
 	public X type;
@@ -317,7 +317,6 @@ class X implements Machine {
 
 }
 
-/*(NULL)*/
 class CHOCOLATETYPE {
 	public  CrunchyFrog;
 	public  SpringSurprise;
@@ -348,7 +347,6 @@ class Order {
 
 }
 
-/*(NULL)*/
 class Y implements Machine {
 	public List<Product> products = CrunchyFrog:4,RamBladderCup:18,SpringSurprise:10;
 	public Y type;
