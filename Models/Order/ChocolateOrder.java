@@ -1,27 +1,20 @@
 package Order;
 
-import java.io.*;
-import java.util.*;
-
 import Chocolate.Chocolate;
 
-public class ChocolateOrder implements Chocolate {
+public class ChocolateOrder {
 	public int amount;
 	public Chocolate choc;
 
-	public ChocolateOrder() {		
+	public ChocolateOrder(Chocolate choc) {			
 	}
 
-	public void ChocolateOrder(Chocolate chocolate) {
-
+	public int getAmount(int amount) {
+		return amount;
 	}
 
-	public int getAmount() {
-		
-	}
-
-	public Chocolate getChoc () {
-		
+	public Chocolate getChoc(Chocolate choc) {
+		return choc;
 	}
 
 }

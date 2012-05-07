@@ -1,35 +1,28 @@
 package Machine;
 
-import java.util.*;
-import java.io.*;
+import java.util.Date;
+import java.util.List;
+import java.util.Stack;
+
 import Order.ChocolateOrder;
 
 enum MACHINETYPE {X, Y, Z};
 
 public interface Machine {
-	public MACHINETYPE type;
-	public List<Product> products;
-	public Stack<Order.ChocolateOrder> queue;
+	MACHINETYPE type = MACHINETYPE.X;
+	List<Product> products;
+	Stack<Order.ChocolateOrder> queue;
 
 	public Machine() {
 		
 	}
 
-	public void machine(MACHINETYPE type) {
-		
-	}
+	public void machine(MACHINETYPE type);
 
-	public MACHINETYPE getType() {
-		
-	}
+	public MACHINETYPE getType(MACHINETYPE type);
 
-	public void addChocOrder(ChocolateOrder choc) {
-		
-	}
+	public void addChocOrder(ChocolateOrder choc);
 
-	/** Finalitation date */
-	public static Date finishtAt() {
-		
-	}
+	public static Date finishtAt();
 
 }
