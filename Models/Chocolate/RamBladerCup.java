@@ -1,21 +1,30 @@
 package Chocolate;
 
 public class RamBladerCup implements Chocolate {
-	public RAMTYPE type;
+	public RAMTYPE ramType;
+	public CHOCOLATETYPE type;
+	public static double VALUE = 0.15;
 
-	public RamBladerCup(RAMTYPE type) {
-		this.type = type;
+	public RamBladerCup(RAMTYPE rtype) {
+		type = CHOCOLATETYPE.RamBladerCup;
+        ramType = rtype;
 	}
 
-	public RAMTYPE getType () {
-		return this.type;
+	public CHOCOLATETYPE getType () {
+		return type;
 	}
 	
-	public int getValue(int value){
-		return value;
+	public double getValue(){
+		return (double) (VALUE + (ramType.equals(RAMTYPE.BUTTERFLY) ? 0.07 : 0));
 	}
 	
-	public CHOCOLATETYPE chocolateType(){
-		return CHOCOLATETYPE.RamBladerCup;
+	public RAMTYPE getRamType(){
+		return ramType;
+	}
+
+	@Override
+	public CHOCOLATETYPE chocolateType() {
+		// TODO Auto-generated method stub
+		return null;
 	}
 }

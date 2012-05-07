@@ -2,15 +2,19 @@ package Chocolate;
 
 public class CrunchyFrog implements Chocolate {
 
+	public CHOCOLATETYPE type = null;
+	public static double VALUE = 0.15;
+	
 	public CrunchyFrog() {
+		type = CHOCOLATETYPE.CrunchyFrog;
 	}
 	
-	public int getValue(int value){
-		return value;
+	public double getValue(){
+		return VALUE;
 	}
 	
 	public CHOCOLATETYPE chocolateType(){
-		return CHOCOLATETYPE.CrunchyFrog;
+		return type;
 	}
 
 }

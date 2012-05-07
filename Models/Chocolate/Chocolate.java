@@ -1,13 +1,10 @@
 package Chocolate;
 
-public interface Chocolate {
-
-	public CHOCOLATETYPE type = null;
-	public int value = 0;
+public abstract interface Chocolate {
 
 	public CHOCOLATETYPE chocolateType();
 
-	public int getValue(int value);
+	public double getValue();
 	
 	
 }
