@@ -23,7 +23,7 @@ public abstract class SpringSurprise implements Chocolate {
 		return value;
 	}
 	
-	public CHOCOLATETYPE chocolateType(CHOCOLATETYPE type){
-		return type = CHOCOLATETYPE.SpringSurprise;
+	public CHOCOLATETYPE chocolateType(){
+		return CHOCOLATETYPE.SpringSurprise;
 	}
 }

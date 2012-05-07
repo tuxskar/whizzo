@@ -1,7 +1,3 @@
-/*package Chocolate;
+package Chocolate;
 
-public enum RAMTYPE {
-	
-	SQUARE, OVAL, HEXAGONAL, BUTTERFLY
-
-}*/
+public enum RAMTYPE {SQUARE, OVAL, HEXAGONAL, BUTTERFLY}

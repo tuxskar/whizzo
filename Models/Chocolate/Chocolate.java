@@ -1,13 +1,11 @@
 package Chocolate;
 
-enum CHOCOLATETYPE {CrunchyFrog, SpringSurprise, RamBladerCup, NULL};
-
 public interface Chocolate {
 
-	public CHOCOLATETYPE type = CHOCOLATETYPE.NULL;
+	public CHOCOLATETYPE type = null;
 	public int value = 0;
 
-	public CHOCOLATETYPE chocolateType(CHOCOLATETYPE type);
+	public CHOCOLATETYPE chocolateType();
 
 	public int getValue(int value);
 	

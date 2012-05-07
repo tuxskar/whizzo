@@ -1,7 +1,5 @@
 package Chocolate;
 
-enum RAMTYPE {SQUARE, OVAL, HEXAGONAL, BUTTERFLY};
-
 public class RamBladerCup implements Chocolate {
 	public RAMTYPE type;
 
@@ -17,7 +15,7 @@ public class RamBladerCup implements Chocolate {
 		return value;
 	}
 	
-	public CHOCOLATETYPE chocolateType(CHOCOLATETYPE type){
-		return type = CHOCOLATETYPE.RamBladerCup;
+	public CHOCOLATETYPE chocolateType(){
+		return CHOCOLATETYPE.RamBladerCup;
 	}
 }

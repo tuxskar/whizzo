@@ -9,8 +9,8 @@ public class CrunchyFrog implements Chocolate {
 		return value;
 	}
 	
-	public CHOCOLATETYPE chocolateType(CHOCOLATETYPE type){
-		return type = CHOCOLATETYPE.CrunchyFrog;
+	public CHOCOLATETYPE chocolateType(){
+		return CHOCOLATETYPE.CrunchyFrog;
 	}
 
 }
