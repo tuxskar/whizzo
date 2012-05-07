@@ -1,26 +1,40 @@
 package Machine;
 
 import java.util.Date;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Stack;
+
+import Chocolate.CHOCOLATETYPE;
+import Order.ChocolateOrder;
 
 
 public class X implements Machine {
-	public List<Product> products = CrunchyFrog:2, SpringSurprise:7;
-	public X type;
-
-	public void machine (MACHINETYPE type) {
-		
+	public static MACHINETYPE type = null;
+	public List<Product> products = null;
+	public Stack<ChocolateOrder> queue = null;
+	
+	public void machine () {
+		type = MACHINETYPE.X;
+		products = new LinkedList<Product>();
+		Product crunchy = new Product(CHOCOLATETYPE.CrunchyFrog,2);
+		products.add(crunchy);
+		Product spring = new Product(CHOCOLATETYPE.SpringSurprise,7);
+		products.add(spring);
+		queue = new Stack<ChocolateOrder>();
 	}
 
 	public MACHINETYPE getType() {
-		
-	}
-
-	public void addChocOrder (ChocolateOrder choc) {
-		
+		return type;
 	}
 	
-	public static Date finishtAt() {
-		
+	public Date finishtAt() {
+		return null;
+	}
+
+	@Override
+	public void addChocOrder(ChocolateOrder choc) {
+		queue.add(choc);
 	}
 
 }

@@ -1,7 +1,3 @@
-/*package Machine;
+package Machine;
 
-public enum MACHINETYPE {
-	public  X;
-	public  Y;
-	public  Z;
-};*/
+public enum MACHINETYPE {X,Y,Z};

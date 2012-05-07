@@ -1,15 +1,14 @@
 package Machine;
 
-enum CHOCOLATETYPE {CrunchyFrog, SpringSurprise, RamBladerCup, NULL};
+import Chocolate.CHOCOLATETYPE;
 
 public class Product {
 
-	CHOCOLATETYPE chocType = CHOCOLATETYPE.NULL;
+	CHOCOLATETYPE chocType = null;
 	int productTime = 0;
-	
-	public void product(CHOCOLATETYPE chocType, int productTime){
-		this.chocType = chocType;
+
+	public Product(CHOCOLATETYPE choc, int productTime){
+		this.chocType = choc;
 		this.productTime = productTime;		
 	}
-	
 }
