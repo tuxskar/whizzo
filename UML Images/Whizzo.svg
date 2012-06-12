@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="128.966cm" height="96.178cm" viewBox="-40.307 -50.575 88.659 45.603"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect x="-25.171" y="-39.337" width="113.780" height="84.890" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="-25.171" y="-39.337" width="113.780" height="84.890" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="-25.171" y="-40.337" width="2.510" height="1.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="-25.171" y="-40.337" width="2.510" height="1.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="-25.071" y="-39.587"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+whizzo</text>
+<rect x="-23.997" y="-18.866" width="111.010" height="62.683" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="-23.997" y="-18.866" width="111.010" height="62.683" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="-23.997" y="-19.866" width="2.510" height="1.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="-23.997" y="-19.866" width="2.510" height="1.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="-23.896" y="-19.116"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+domain</text>
+<rect x="-10.055" y="-36.981" width="47.546" height="16.117" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="-10.055" y="-36.981" width="47.546" height="16.117" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="-10.055" y="-37.981" width="5.205" height="1.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="-10.055" y="-37.981" width="5.205" height="1.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="-9.955" y="-37.231"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+Client-Server</text>
+<rect x="4.091" y="-16.781" width="81.069" height="58.817" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="4.091" y="-16.781" width="81.069" height="58.817" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="4.091" y="-17.781" width="2.510" height="1.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="4.091" y="-17.781" width="2.510" height="1.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="4.191" y="-17.031"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+Models</text>
+<rect x="6.091" y="19.218" width="23.000" height="12.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="6.091" y="19.218" width="23.000" height="12.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="6.091" y="18.218" width="3.280" height="1.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="6.091" y="18.218" width="3.280" height="1.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="6.191" y="18.968"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+Customer</text>
+<rect x="32.373" y="18.828" width="46.939" height="21.136" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="32.373" y="18.828" width="46.939" height="21.136" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="32.373" y="17.828" width="3.665" height="1.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="32.373" y="17.828" width="3.665" height="1.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="32.473" y="18.578"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+Chocolate</text>
+<rect x="7.091" y="20.603" width="20.520" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="7.091" y="20.603" width="20.520" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="17.351" y="21.553"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+Customer</text>
+<rect x="7.091" y="22.003" width="20.520" height="5.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="7.091" y="22.003" width="20.520" height="5.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="7.241" y="22.703"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++name: String</text>
+<text x="7.241" y="23.503"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++contact: String</text>
+<text x="7.241" y="24.303"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++address: String</text>
+<text x="7.241" y="25.103"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++orders: List&lt;Order&gt;</text>
+<text x="7.241" y="25.903"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++ID: Int</text>
+<text x="7.241" y="26.703"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++total: Int</text>
+<rect x="7.091" y="27.003" width="20.520" height="3.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="7.091" y="27.003" width="20.520" height="3.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="7.241" y="27.703"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++Customer(name:String,contact:String,address:String,</text>
+<text x="7.241" y="28.503"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+          ID:Int)</text>
+<text x="7.241" y="29.303"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++addOrder(order:Order)</text>
+<text x="7.241" y="30.103"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++deleteOrder(date:DateTime)</text>
+<rect x="41.084" y="22.880" width="12.435" height="2.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="41.084" y="22.880" width="12.435" height="2.200" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="47.301" y="23.680"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+&lt;&lt;interface&gt;&gt;</text>
+<text x="47.301" y="24.630"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+Chocolate</text>
+<rect x="41.084" y="25.080" width="12.435" height="2.850" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="41.084" y="25.080" width="12.435" height="2.850" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="41.234" y="25.780"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++type: CHOCOLATETYPE</text>
+<text x="41.234" y="26.580"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++value: Int</text>
+<text x="41.234" y="27.305"  fill="#000000" text-anchor="start" font-size="0.70" font-family="sans" font-style="normal" font-weight="400">
+Valor</text>
+<rect x="41.084" y="27.930" width="12.435" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="41.084" y="27.930" width="12.435" height="1.800" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="41.234" y="28.630"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++chocolateType(): CHOCOLATETYPE</text>
+<text x="41.234" y="29.430"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++getValue(): Int</text>
+<rect x="35.119" y="33.889" width="6.205" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="35.119" y="33.889" width="6.205" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="38.221" y="34.839"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+CrunchyFrog</text>
+<rect x="35.119" y="35.289" width="6.205" height="0.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="35.119" y="35.289" width="6.205" height="0.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="35.119" y="35.689" width="6.205" height="0.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="35.119" y="35.689" width="6.205" height="0.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="45.360" y="33.831" width="7.430" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="45.360" y="33.831" width="7.430" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="49.075" y="34.781"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+SpringSurprise</text>
+<rect x="45.360" y="35.230" width="7.430" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="45.360" y="35.230" width="7.430" height="1.800" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="45.510" y="35.931"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++wrapped: Bool</text>
+<text x="45.510" y="36.731"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++color: COLOR</text>
+<rect x="45.360" y="37.030" width="7.430" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="45.360" y="37.030" width="7.430" height="1.800" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="45.510" y="37.730"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++getColor(): COLOR</text>
+<text x="45.510" y="38.531"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++isWrapper(): Bool</text>
+<rect x="55.632" y="33.872" width="10.895" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="55.632" y="33.872" width="10.895" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="61.079" y="34.822"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+RamBladerCup</text>
+<rect x="55.632" y="35.272" width="10.895" height="1.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="55.632" y="35.272" width="10.895" height="1.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="55.782" y="35.972"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++type: RAMTYPE</text>
+<rect x="55.632" y="36.272" width="10.895" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="55.632" y="36.272" width="10.895" height="1.800" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="55.782" y="36.972"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++getType(): RAMTYPE</text>
+<text x="55.782" y="37.772"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++ramBladerCup(type:RAMTYPE)</text>
+<rect x="33.215" y="-12.117" width="50.374" height="26.929" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="33.215" y="-12.117" width="50.374" height="26.929" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="33.215" y="-13.117" width="2.895" height="1.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="33.215" y="-13.117" width="2.895" height="1.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="33.315" y="-12.367"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+Machine</text>
+<rect x="35.730" y="-11.032" width="13.590" height="2.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="35.730" y="-11.032" width="13.590" height="2.200" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="42.525" y="-10.232"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+&lt;&lt;interface&gt;&gt;</text>
+<text x="42.525" y="-9.282"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+Machine</text>
+<rect x="35.730" y="-8.832" width="13.590" height="2.600" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="35.730" y="-8.832" width="13.590" height="2.600" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="35.880" y="-8.132"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++type: MACHINETYPE</text>
+<text x="35.880" y="-7.332"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++products: List&lt;Product&gt;</text>
+<text x="35.880" y="-6.532"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++queue: Stack&lt;ChocolateOrder&gt;</text>
+<rect x="35.730" y="-6.232" width="13.590" height="3.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="35.730" y="-6.232" width="13.590" height="3.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="35.880" y="-5.532"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++machine(type:MACHINETYPE)</text>
+<text x="35.880" y="-4.732"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++getType(): MACHINETYPE</text>
+<text x="35.880" y="-3.932"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++addChocOrder(choc:ChocolateOrder)</text>
+<text x="35.880" y="-3.132"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++finishtAt(): DateTime</text>
+<rect x="53.215" y="-11.105" width="6.947" height="2.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="53.215" y="-11.105" width="6.947" height="2.200" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="56.689" y="-10.305"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+&lt;&lt;enumeration&gt;&gt;</text>
+<text x="56.689" y="-9.355"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+MACHINETYPE</text>
+<rect x="53.215" y="-8.905" width="6.947" height="2.600" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="53.215" y="-8.905" width="6.947" height="2.600" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="53.365" y="-8.205"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++X</text>
+<text x="53.365" y="-7.405"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++Y</text>
+<text x="53.365" y="-6.605"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++Z</text>
+<rect x="67.919" y="24.074" width="8.125" height="2.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="67.919" y="24.074" width="8.125" height="2.200" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="71.981" y="24.874"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+&lt;&lt;enumeration&gt;&gt;</text>
+<text x="71.981" y="25.824"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+CHOCOLATETYPE</text>
+<rect x="67.919" y="26.274" width="8.125" height="2.600" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="67.919" y="26.274" width="8.125" height="2.600" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="68.069" y="26.974"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++CrunchyFrog</text>
+<text x="68.069" y="27.774"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++SpringSurprise</text>
+<text x="68.069" y="28.574"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++RamBladerCup</text>
+<rect x="69.966" y="32.528" width="5.505" height="2.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="69.966" y="32.528" width="5.505" height="2.200" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="72.718" y="33.328"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+&lt;&lt;enumerate&gt;&gt;</text>
+<text x="72.718" y="34.278"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+RAMTYPE</text>
+<rect x="69.966" y="34.728" width="5.505" height="4.450" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="69.966" y="34.728" width="5.505" height="4.450" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="70.116" y="35.428"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++SQUARE</text>
+<text x="70.116" y="36.228"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++OVAL</text>
+<text x="70.116" y="37.028"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++HEXAGONAL</text>
+<text x="70.116" y="37.828"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++BUTTERFLY</text>
+<text x="70.116" y="38.553"  fill="#000000" text-anchor="start" font-size="0.70" font-family="sans" font-style="normal" font-weight="400">
+0.07 extra</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100" stroke-dasharray="0.40,0.40" points="47.301,30.692 47.301,32.201 61.079,32.201 61.079,33.822 "/>
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="47.701,30.692 47.301,29.892 46.901,30.692 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="47.701,30.692 47.301,29.892 46.901,30.692 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100" stroke-dasharray="0.40,0.40" points="47.301,30.692 47.301,32.180 49.075,32.180 49.075,33.780 "/>
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="47.701,30.692 47.301,29.892 46.901,30.692 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="47.701,30.692 47.301,29.892 46.901,30.692 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100" stroke-dasharray="0.40,0.40" points="47.301,30.692 47.301,32.209 38.221,32.209 38.221,33.839 "/>
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="47.701,30.692 47.301,29.892 46.901,30.692 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="47.701,30.692 47.301,29.892 46.901,30.692 "/>
+<rect x="33.385" y="4.622" width="22.445" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="33.385" y="4.622" width="22.445" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="44.608" y="5.572"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+X</text>
+<rect x="33.385" y="6.022" width="22.445" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="33.385" y="6.022" width="22.445" height="1.800" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="33.535" y="6.722"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++products: List&lt;Product&gt; = CrunchyFrog:2,SpringSurprise:7</text>
+<text x="33.535" y="7.522"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++type: X</text>
+<rect x="42.881" y="9.360" width="29.375" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="42.881" y="9.360" width="29.375" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="57.568" y="10.310"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+Y</text>
+<rect x="42.881" y="10.760" width="29.375" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="42.881" y="10.760" width="29.375" height="1.800" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="43.031" y="11.460"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++products: List&lt;Product&gt; = CrunchyFrog:4,RamBladderCup:18,SpringSurprise:10</text>
+<text x="43.031" y="12.260"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++type: Y</text>
+<rect x="59.079" y="4.938" width="16.670" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="59.079" y="4.938" width="16.670" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="67.414" y="5.888"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+Z</text>
+<rect x="59.079" y="6.338" width="16.670" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="59.079" y="6.338" width="16.670" height="1.800" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="59.229" y="7.038"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++products: List&lt;product&gt; = RamBladderCup:5</text>
+<text x="59.229" y="7.838"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++type: Z</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100" stroke-dasharray="0.40,0.40" points="42.525,-1.870 42.525,1.295 44.608,1.295 44.608,4.572 "/>
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="42.925,-1.870 42.525,-2.670 42.125,-1.870 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="42.925,-1.870 42.525,-2.670 42.125,-1.870 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100" stroke-dasharray="0.40,0.40" points="42.525,-1.870 42.525,1.453 67.414,1.453 67.414,4.888 "/>
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="42.925,-1.870 42.525,-2.670 42.125,-1.870 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="42.925,-1.870 42.525,-2.670 42.125,-1.870 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100" stroke-dasharray="0.40,0.40" points="42.525,-1.870 42.525,3.664 57.568,3.664 57.568,9.310 "/>
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="42.925,-1.870 42.525,-2.670 42.125,-1.870 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="42.925,-1.870 42.525,-2.670 42.125,-1.870 "/>
+<rect x="6.091" y="-12.323" width="16.510" height="25.485" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="6.091" y="-12.323" width="16.510" height="25.485" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="6.091" y="-13.323" width="2.125" height="1.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="6.091" y="-13.323" width="2.125" height="1.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="6.191" y="-12.573"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+Order</text>
+<rect x="7.214" y="-8.828" width="13.205" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="7.214" y="-8.828" width="13.205" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="13.817" y="-7.878"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+Order</text>
+<rect x="7.214" y="-7.428" width="13.205" height="2.600" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="7.214" y="-7.428" width="13.205" height="2.600" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="7.364" y="-6.728"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++date: DateTime</text>
+<text x="7.364" y="-5.928"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++chocolates: List&lt;ChocolateOrder&gt;</text>
+<text x="7.364" y="-5.128"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++total: Int</text>
+<rect x="7.214" y="-4.828" width="13.205" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="7.214" y="-4.828" width="13.205" height="1.800" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="7.364" y="-4.128"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++Order(date:DateTime)</text>
+<text x="7.364" y="-3.328"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++addChocolate(ch:ChocolateOrder)</text>
+<rect x="6.931" y="1.835" width="14.360" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="6.931" y="1.835" width="14.360" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="14.111" y="2.785"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+CholoateOrder</text>
+<rect x="6.931" y="3.235" width="14.360" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="6.931" y="3.235" width="14.360" height="1.800" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="7.081" y="3.935"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++amount: Int</text>
+<text x="7.081" y="4.735"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++choc: Chocolate</text>
+<rect x="6.931" y="5.035" width="14.360" height="2.600" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="6.931" y="5.035" width="14.360" height="2.600" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="7.081" y="5.735"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++ChocolotaOrder(chocolate:Chocolate)</text>
+<text x="7.081" y="6.535"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++getAmount(): Int</text>
+<text x="7.081" y="7.335"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++getChoc(): Chocolate</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="50.629,-6.932 51.618,-6.932 51.618,-8.705 53.165,-8.705 "/>
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="49.371,-6.932 50.071,-7.172 50.771,-6.932 50.071,-6.692 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="49.371,-6.932 50.071,-7.172 50.771,-6.932 50.071,-6.692 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="54.828,26.305 61.069,26.305 61.069,26.474 67.868,26.474 "/>
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="53.569,26.305 54.269,26.065 54.969,26.305 54.269,26.545 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="53.569,26.305 54.269,26.065 54.969,26.305 54.269,26.545 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="67.836,35.972 68.596,35.972 68.596,35.853 69.916,35.853 "/>
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="66.577,35.972 67.277,35.732 67.977,35.972 67.277,36.212 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="66.577,35.972 67.277,35.732 67.977,35.972 67.277,36.212 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="13.817,-1.719 13.817,-0.246 14.111,-0.246 14.111,1.785 "/>
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="13.817,-2.977 14.057,-2.277 13.817,-1.577 13.577,-2.277 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="13.817,-2.977 14.057,-2.277 13.817,-1.577 13.577,-2.277 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="14.111,8.944 14.111,15.607 47.301,15.607 47.301,22.829 "/>
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="14.111,7.686 14.351,8.386 14.111,9.086 13.871,8.386 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="14.111,7.686 14.351,8.386 14.111,9.086 13.871,8.386 "/>
+<rect x="-22.922" y="-17.022" width="24.017" height="17.777" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="-22.922" y="-17.022" width="24.017" height="17.777" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="-22.922" y="-18.022" width="3.280" height="1.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="-22.922" y="-18.022" width="3.280" height="1.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="-22.822" y="-17.272"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+Mediator</text>
+<rect x="-15.397" y="-15.719" width="7.190" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="-15.397" y="-15.719" width="7.190" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="-11.802" y="-14.769"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+ModelManager</text>
+<rect x="-18.303" y="-10.820" width="12.820" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="-18.303" y="-10.820" width="12.820" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="-11.893" y="-9.870"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+DataBaseManager</text>
+<rect x="-18.303" y="-9.420" width="12.820" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="-18.303" y="-9.420" width="12.820" height="1.800" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="-18.153" y="-8.720"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++DBManager: DataBaseManager</text>
+<line x1="-18.153" y1="-8.441" x2="-7.758" y2="-8.441" stroke="#000000" stroke-width="0.050" />
+<text x="-18.153" y="-7.921"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++DBName: String = &quot;whizzo.db&quot;</text>
+<rect x="-18.303" y="-7.620" width="12.820" height="7.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="-18.303" y="-7.620" width="12.820" height="7.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="-18.153" y="-6.920"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++DataBaseManager()()</text>
+<text x="-18.153" y="-6.120"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++insertChocolate(choc:Chocolate)</text>
+<text x="-18.153" y="-5.320"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++deleteChocolate(choc:Chocolate)</text>
+<text x="-18.153" y="-4.520"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++insertOrder(order:Order)</text>
+<text x="-18.153" y="-3.720"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++deleteOrder(order:Order)</text>
+<text x="-18.153" y="-2.920"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++insertCustomer(cus:Customer)</text>
+<text x="-18.153" y="-2.120"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++deleteCustomer(Id:Int)</text>
+<text x="-18.153" y="-1.320"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++insertMachine(mach:Machine)</text>
+<text x="-18.153" y="-0.520"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++deleteMachine(mach:Machine)</text>
+<rect x="-40.257" y="-7.510" width="11.015" height="4.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="-40.257" y="-7.510" width="11.015" height="4.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="-40.257" y="-8.510" width="2.895" height="1.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="-40.257" y="-8.510" width="2.895" height="1.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="-40.157" y="-7.760"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+Utility</text>
+<rect x="-38.403" y="-6.399" width="7.470" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="-38.403" y="-6.399" width="7.470" height="1.800" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="-34.668" y="-5.304"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+DAtabase:whizzo.db</text>
+<line x1="-37.903" y1="-5.154" x2="-31.433" y2="-5.154" stroke="#000000" stroke-width="0.050" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-18.354,-5.520 -24.618,-5.520 -24.618,-5.499 -30.659,-5.499 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-30.271,-5.749 -30.771,-5.499 -30.271,-5.249 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-11.893,-10.871 -11.893,-12.570 -11.802,-12.570 -11.802,-14.045 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-11.552,-13.657 -11.802,-14.157 -12.052,-13.657 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-8.158,-15.019 2.758,-15.019 2.758,0.419 5.828,0.419 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="5.440,0.669 5.940,0.419 5.440,0.169 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-8.157,-15.019 2.733,-15.019 2.733,25.218 5.817,25.218 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="5.429,25.468 5.929,25.218 5.429,24.968 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-8.157,-15.019 24.427,-15.019 24.427,-15.134 57.977,-15.134 57.977,-12.117 58.179,-12.117 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="57.790,-11.867 58.290,-12.117 57.790,-12.367 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-8.207,-15.019 -8.207,-15.134 27.706,-15.134 27.706,16.818 55.842,16.818 55.842,17.555 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="55.592,17.167 55.842,17.667 56.092,17.167 "/>
+<rect x="2.569" y="-27.833" width="13.855" height="6.120" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="2.569" y="-27.833" width="13.855" height="6.120" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="2.569" y="-28.833" width="4.435" height="1.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="2.569" y="-28.833" width="4.435" height="1.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="2.669" y="-28.083"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+Controllers</text>
+<rect x="4.824" y="-24.896" width="7.995" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="4.824" y="-24.896" width="7.995" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="8.821" y="-23.946"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+ServerController</text>
+<rect x="3.823" y="-35.698" width="10.136" height="5.050" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="3.823" y="-35.698" width="10.136" height="5.050" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="3.823" y="-36.698" width="2.125" height="1.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="3.823" y="-36.698" width="2.125" height="1.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="3.923" y="-35.948"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+Views</text>
+<rect x="5.920" y="-34.919" width="5.635" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="5.920" y="-34.919" width="5.635" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="8.738" y="-33.969"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+ServerView</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="8.821,-23.446 8.821,-20.350 -11.802,-20.350 -11.802,-15.993 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-12.052,-16.381 -11.802,-15.881 -11.552,-16.381 "/>
+<rect x="-31.301" y="-49.162" width="10.277" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="-31.301" y="-49.162" width="10.277" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="-26.163" y="-48.212"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+java::util::Observable</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-32.263,-48.462 -34.291,-48.462 -34.291,-15.019 -15.426,-15.019 "/>
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="-32.263,-48.062 -31.463,-48.462 -32.263,-48.862 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-32.263,-48.062 -31.463,-48.462 -32.263,-48.862 "/>
+<rect x="0.821" y="-49.887" width="12.820" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="0.821" y="-49.887" width="12.820" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="7.231" y="-48.937"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+java::util::Observer</text>
+<rect x="0.821" y="-48.487" width="12.820" height="0.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="0.821" y="-48.487" width="12.820" height="0.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="0.821" y="-48.087" width="12.820" height="1.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="0.821" y="-48.087" width="12.820" height="1.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="0.971" y="-47.387"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++update(o:Observable,arg:Object)</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100" stroke-dasharray="0.40,0.40" points="7.231,-46.125 7.231,-35.730 8.738,-35.730 8.738,-34.969 "/>
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="7.631,-46.125 7.231,-46.925 6.831,-46.125 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="7.631,-46.125 7.231,-46.925 6.831,-46.125 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-20.973,-48.462 -10.102,-48.462 -10.102,-48.487 0.547,-48.487 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="0.159,-48.237 0.659,-48.487 0.159,-48.737 "/>
+<rect x="59.027" y="-4.913" width="17.440" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="59.027" y="-4.913" width="17.440" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="67.747" y="-3.963"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+Product</text>
+<rect x="59.027" y="-3.513" width="17.440" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="59.027" y="-3.513" width="17.440" height="1.800" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="59.177" y="-2.813"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++chocType: CHOCOLATETYPE</text>
+<text x="59.177" y="-2.013"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++productTime: Int</text>
+<rect x="59.027" y="-1.713" width="17.440" height="1.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="59.027" y="-1.713" width="17.440" height="1.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="59.177" y="-1.013"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++product(choc:CHOCOLATETYPE,producttime:Int)</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="50.629,-6.932 51.281,-6.932 51.281,-2.813 58.977,-2.813 "/>
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="49.370,-6.932 50.070,-7.172 50.770,-6.932 50.070,-6.692 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="49.370,-6.932 50.070,-7.172 50.770,-6.932 50.070,-6.692 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="71.981,22.766 71.981,16.501 78.091,16.501 78.091,-2.813 76.516,-2.813 "/>
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="71.981,24.024 71.741,23.324 71.981,22.624 72.221,23.324 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="71.981,24.024 71.741,23.324 71.981,22.624 72.221,23.324 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="42.525,-12.341 42.525,-13.750 25.350,-13.750 25.350,0.700 14.111,0.700 14.111,1.785 "/>
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="42.525,-11.082 42.285,-11.782 42.525,-12.482 42.765,-11.782 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="42.525,-11.082 42.285,-11.782 42.525,-12.482 42.765,-11.782 "/>
+<rect x="4.982" y="-26.969" width="7.655" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="4.982" y="-26.969" width="7.655" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="8.809" y="-26.019"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+ClientController</text>
+<rect x="6.198" y="-32.797" width="5.295" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="6.198" y="-32.797" width="5.295" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="8.846" y="-31.847"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+ClientView</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="4.982,-26.269 4.982,-26.730 3.701,-26.730 3.701,-20.350 -11.802,-20.350 -11.802,-15.993 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-12.052,-16.381 -11.802,-15.881 -11.552,-16.381 "/>
+<rect x="21.844" y="-31.444" width="14.107" height="6.265" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="21.844" y="-31.444" width="14.107" height="6.265" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="21.844" y="-32.444" width="2.895" height="1.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="21.844" y="-32.444" width="2.895" height="1.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="21.944" y="-31.694"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+Product</text>
+<rect x="24.711" y="-29.874" width="6.340" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="24.711" y="-29.874" width="6.340" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="27.881" y="-28.924"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+WhizzoClient</text>
+<rect x="24.891" y="-27.523" width="6.680" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="24.891" y="-27.523" width="6.680" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="28.231" y="-26.573"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+WhizzoServer</text>
+<rect x="-9.803" y="-25.423" width="5.935" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="-9.803" y="-25.423" width="5.935" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="-6.836" y="-24.473"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+C-SCommon</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="8.809,-27.019 8.809,-29.183 8.846,-29.183 8.846,-31.123 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="9.096,-30.735 8.846,-31.235 8.596,-30.735 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="8.821,-24.939 8.821,-25.176 15.284,-25.176 15.284,-34.219 11.829,-34.219 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="12.217,-34.469 11.717,-34.219 12.217,-33.969 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="24.711,-29.174 18.699,-29.174 18.699,-26.269 12.911,-26.269 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="13.299,-26.519 12.799,-26.269 13.299,-26.019 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="28.231,-26.073 28.231,-23.014 12.819,-23.014 12.819,-23.972 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="13.069,-23.584 12.819,-24.084 12.569,-23.584 "/>
+</svg>

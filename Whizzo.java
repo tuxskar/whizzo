@@ -1,29 +1,3 @@
-class Customer {
-	public String name;
-	public String contact;
-	public String address;
-	public List<Order> orders;
-	public Int ID;
-	public Int total;
-
-	public Customer() {
-		
-	}
-
-	public void Customer (String name, String contact, String address, Int ID) {
-		
-	}
-
-	public void addOrder (Order order) {
-		
-	}
-
-	public void deleteOrder (DateTime date) {
-		
-	}
-
-}
-
 class ModelManager extends java::util::Observable {
 
 	public ModelManager() {
@@ -32,56 +6,19 @@ class ModelManager extends java::util::Observable {
 
 }
 
-class Product {
-	public CHOCOLATETYPE chocType;
-	public Int productTime;
+/*(NULL)*/
+class WhizzoServer {
 
-	public Product() {
-		
-	}
-
-	public void product (CHOCOLATETYPE choc, Int producttime) {
+	public WhizzoServer() {
 		
 	}
 
 }
 
-class Z implements Machine {
-	public List<product> products = RamBladderCup:5;
-	public Z type;
+/*(NULL)*/
+class ServerView implements java::util::Observer {
 
-	public Z() {
-		
-	}
-
-	public void machine (MACHINETYPE type) {
-		
-	}
-
-	public MACHINETYPE getType () {
-		
-	}
-
-	public void addChocOrder (ChocolateOrder choc) {
-		
-	}
-
-}
-
-class MACHINETYPE {
-	public  X;
-	public  Y;
-	public  Z;
-
-	public MACHINETYPE() {
-		
-	}
-
-}
-
-class java::util::Observer {
-
-	public java::util::Observer() {
+	public ServerView() {
 		
 	}
 
@@ -91,9 +28,49 @@ class java::util::Observer {
 
 }
 
-class java::util::Observable {
+class RAMTYPE {
+	public  SQUARE;
+	public  OVAL;
+	public  HEXAGONAL;
+	public  BUTTERFLY;
 
-	public java::util::Observable() {
+	public RAMTYPE() {
+		
+	}
+
+}
+
+class RamBladerCup implements Chocolate {
+	public RAMTYPE type;
+
+	public RamBladerCup() {
+		
+	}
+
+	public RAMTYPE getType () {
+		
+	}
+
+	/** 	 */
+	public static void ramBladerCup (RAMTYPE type) {
+		
+	}
+
+}
+
+/*(NULL)*/
+class ClientView {
+
+	public ClientView() {
+		
+	}
+
+}
+
+/*(NULL)*/
+class C-SCommon {
+
+	public C-SCommon() {
 		
 	}
 
@@ -121,9 +98,15 @@ class CholoateOrder {
 
 }
 
-class Server {
+class Product {
+	public CHOCOLATETYPE chocType;
+	public Int productTime;
 
-	public Server() {
+	public Product() {
+		
+	}
+
+	public void product (CHOCOLATETYPE choc, Int producttime) {
 		
 	}
 
@@ -147,47 +130,79 @@ class Chocolate {
 
 }
 
-class Machine {
-	public MACHINETYPE type;
-	public List<Product> products;
-	public Stack<ChocolateOrder> queue;
+/*(NULL)*/
+class ClientController {
 
-	public Machine() {
-		
-	}
-
-	public void machine (MACHINETYPE type) {
-		
-	}
-
-	public MACHINETYPE getType () {
-		
-	}
-
-	public void addChocOrder (ChocolateOrder choc) {
-		
-	}
-
-	/** Finalitation date */
-	public static DateTime finishtAt () {
+	public ClientController() {
 		
 	}
 
 }
 
-class RamBladerCup implements Chocolate {
-	public RAMTYPE type;
+class java::util::Observer {
 
-	public RamBladerCup() {
+	public java::util::Observer() {
 		
 	}
 
-	public RAMTYPE getType () {
+	public void update (Observable o, Object arg) {
 		
 	}
 
-	/** 	 */
-	public static void ramBladerCup (RAMTYPE type) {
+}
+
+class CHOCOLATETYPE {
+	public  CrunchyFrog;
+	public  SpringSurprise;
+	public  RamBladerCup;
+
+	public CHOCOLATETYPE() {
+		
+	}
+
+}
+
+class Customer {
+	public String name;
+	public String contact;
+	public String address;
+	public List<Order> orders;
+	public Int ID;
+	public Int total;
+
+	public Customer() {
+		
+	}
+
+	public void Customer (String name, String contact, String address, Int ID) {
+		
+	}
+
+	public void addOrder (Order order) {
+		
+	}
+
+	public void deleteOrder (DateTime date) {
+		
+	}
+
+}
+
+class MACHINETYPE {
+	public  X;
+	public  Y;
+	public  Z;
+
+	public MACHINETYPE() {
+		
+	}
+
+}
+
+/*(NULL)*/
+class WhizzoClient {
+
+	public WhizzoClient() {
 		
 	}
 
@@ -252,43 +267,23 @@ class CrunchyFrog implements Chocolate {
 
 }
 
-class TerminalView implements java::util::Observer {
+class Y implements Machine {
+	public List<Product> products = CrunchyFrog:4,RamBladderCup:18,SpringSurprise:10;
+	public Y type;
 
-	public TerminalView() {
+	public Y() {
 		
 	}
 
-	public void update (Observable o, Object arg) {
+	public void machine (MACHINETYPE type) {
 		
 	}
 
-}
-
-class RAMTYPE {
-	public  SQUARE;
-	public  OVAL;
-	public  HEXAGONAL;
-	public  BUTTERFLY;
-
-	public RAMTYPE() {
+	public MACHINETYPE getType () {
 		
 	}
 
-}
-
-class SpringSurprise implements Chocolate {
-	public Bool wrapped;
-	public COLOR color;
-
-	public SpringSurprise() {
-		
-	}
-
-	public COLOR getColor () {
-		
-	}
-
-	public Bool isWrapper () {
+	public void addChocOrder (ChocolateOrder choc) {
 		
 	}
 
@@ -316,12 +311,23 @@ class X implements Machine {
 
 }
 
-class CHOCOLATETYPE {
-	public  CrunchyFrog;
-	public  SpringSurprise;
-	public  RamBladerCup;
+class Z implements Machine {
+	public List<product> products = RamBladderCup:5;
+	public Z type;
 
-	public CHOCOLATETYPE() {
+	public Z() {
+		
+	}
+
+	public void machine (MACHINETYPE type) {
+		
+	}
+
+	public MACHINETYPE getType () {
+		
+	}
+
+	public void addChocOrder (ChocolateOrder choc) {
 		
 	}
 
@@ -346,11 +352,12 @@ class Order {
 
 }
 
-class Y implements Machine {
-	public List<Product> products = CrunchyFrog:4,RamBladderCup:18,SpringSurprise:10;
-	public Y type;
+class Machine {
+	public MACHINETYPE type;
+	public List<Product> products;
+	public Stack<ChocolateOrder> queue;
 
-	public Y() {
+	public Machine() {
 		
 	}
 
@@ -363,6 +370,46 @@ class Y implements Machine {
 	}
 
 	public void addChocOrder (ChocolateOrder choc) {
+		
+	}
+
+	/** Finalitation date */
+	public static DateTime finishtAt () {
+		
+	}
+
+}
+
+/*(NULL)*/
+class ServerController {
+
+	public ServerController() {
+		
+	}
+
+}
+
+class java::util::Observable {
+
+	public java::util::Observable() {
+		
+	}
+
+}
+
+class SpringSurprise implements Chocolate {
+	public Bool wrapped;
+	public COLOR color;
+
+	public SpringSurprise() {
+		
+	}
+
+	public COLOR getColor () {
+		
+	}
+
+	public Bool isWrapper () {
 		
 	}
 
