@@ -13,10 +13,6 @@ public class Customer {
 	public int ID;
 	public int total;
 
-	public Customer() {
-		
-	}
-
 	public Customer (String name, String contact, String address, int ID) {
 		this.name = name;
 		this.contact = contact;

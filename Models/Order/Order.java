@@ -17,7 +17,6 @@ public class Order {
 
 	public void addChocolate(ChocolateOrder ch) {
 		chocolates.add(ch);
-		total++;
 	}
 
 }
