@@ -1,9 +1,9 @@
-package Customer;
+package Models.Customer;
 
 import java.util.Date;
 import java.util.List;
 
-import Order.Order;
+import Models.Order.Order;
 
 public class Customer {
 	public String name;

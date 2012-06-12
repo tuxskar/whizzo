@@ -1,12 +1,12 @@
-package Machine;
+package Models.Machine;
 
 import java.util.Date;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Stack;
 
-import Chocolate.CHOCOLATETYPE;
-import Order.ChocolateOrder;
+import Models.Chocolate.CHOCOLATETYPE;
+import Models.Order.ChocolateOrder;
 
 public class Y implements Machine {
 	public static MACHINETYPE type = null;

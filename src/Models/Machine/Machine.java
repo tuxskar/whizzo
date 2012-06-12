@@ -1,8 +1,8 @@
-package Machine;
+package Models.Machine;
 
 import java.util.Date;
 
-import Order.ChocolateOrder;
+import Models.Order.ChocolateOrder;
 
 public interface Machine {
 

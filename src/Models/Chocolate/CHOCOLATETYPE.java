@@ -1,3 +1,3 @@
-package Chocolate;
+package Models.Chocolate;
 
 public enum CHOCOLATETYPE {CrunchyFrog, SpringSurprise, RamBladerCup};

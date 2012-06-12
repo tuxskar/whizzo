@@ -1,4 +1,4 @@
-package Chocolate;
+package Models.Chocolate;
 
 import java.awt.*;
 

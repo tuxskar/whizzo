@@ -1,6 +1,6 @@
-package Machine;
+package Models.Machine;
 
-import Chocolate.CHOCOLATETYPE;
+import Models.Chocolate.CHOCOLATETYPE;
 
 public class Product {
 

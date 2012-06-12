@@ -1,4 +1,4 @@
-package Order;
+package Models.Order;
 
 import java.util.Date;
 import java.util.List;
