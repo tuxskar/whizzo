@@ -1,476 +1,522 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created by diasvg.py -->
-<svg width="128.966cm" height="96.178cm" viewBox="-40.307 -50.575 88.659 45.603"
- xmlns="http://www.w3.org/2000/svg"
- xmlns:xlink="http://www.w3.org/1999/xlink">
-<rect x="-25.171" y="-39.337" width="113.780" height="84.890" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-25.171" y="-39.337" width="113.780" height="84.890" fill="none" stroke="#000000" stroke-width="0.100" />
-<rect x="-25.171" y="-40.337" width="2.510" height="1.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-25.171" y="-40.337" width="2.510" height="1.000" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-25.071" y="-39.587"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-whizzo</text>
-<rect x="-23.997" y="-18.866" width="111.010" height="62.683" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-23.997" y="-18.866" width="111.010" height="62.683" fill="none" stroke="#000000" stroke-width="0.100" />
-<rect x="-23.997" y="-19.866" width="2.510" height="1.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-23.997" y="-19.866" width="2.510" height="1.000" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-23.896" y="-19.116"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-domain</text>
-<rect x="-10.055" y="-36.981" width="47.546" height="16.117" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-10.055" y="-36.981" width="47.546" height="16.117" fill="none" stroke="#000000" stroke-width="0.100" />
-<rect x="-10.055" y="-37.981" width="5.205" height="1.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-10.055" y="-37.981" width="5.205" height="1.000" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-9.955" y="-37.231"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-Client-Server</text>
-<rect x="4.091" y="-16.781" width="81.069" height="58.817" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="4.091" y="-16.781" width="81.069" height="58.817" fill="none" stroke="#000000" stroke-width="0.100" />
-<rect x="4.091" y="-17.781" width="2.510" height="1.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="4.091" y="-17.781" width="2.510" height="1.000" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="4.191" y="-17.031"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-Models</text>
-<rect x="6.091" y="19.218" width="23.000" height="12.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="6.091" y="19.218" width="23.000" height="12.000" fill="none" stroke="#000000" stroke-width="0.100" />
-<rect x="6.091" y="18.218" width="3.280" height="1.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="6.091" y="18.218" width="3.280" height="1.000" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="6.191" y="18.968"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-Customer</text>
-<rect x="32.373" y="18.828" width="46.939" height="21.136" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="32.373" y="18.828" width="46.939" height="21.136" fill="none" stroke="#000000" stroke-width="0.100" />
-<rect x="32.373" y="17.828" width="3.665" height="1.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="32.373" y="17.828" width="3.665" height="1.000" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="32.473" y="18.578"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-Chocolate</text>
-<rect x="7.091" y="20.603" width="20.520" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="7.091" y="20.603" width="20.520" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="17.351" y="21.553"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
-Customer</text>
-<rect x="7.091" y="22.003" width="20.520" height="5.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="7.091" y="22.003" width="20.520" height="5.000" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="7.241" y="22.703"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+name: String</text>
-<text x="7.241" y="23.503"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+contact: String</text>
-<text x="7.241" y="24.303"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+address: String</text>
-<text x="7.241" y="25.103"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+orders: List&lt;Order&gt;</text>
-<text x="7.241" y="25.903"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+ID: Int</text>
-<text x="7.241" y="26.703"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+total: Int</text>
-<rect x="7.091" y="27.003" width="20.520" height="3.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="7.091" y="27.003" width="20.520" height="3.400" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="7.241" y="27.703"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+Customer(name:String,contact:String,address:String,</text>
-<text x="7.241" y="28.503"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-          ID:Int)</text>
-<text x="7.241" y="29.303"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+addOrder(order:Order)</text>
-<text x="7.241" y="30.103"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+deleteOrder(date:DateTime)</text>
-<rect x="41.084" y="22.880" width="12.435" height="2.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="41.084" y="22.880" width="12.435" height="2.200" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="47.301" y="23.680"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-&lt;&lt;interface&gt;&gt;</text>
-<text x="47.301" y="24.630"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
-Chocolate</text>
-<rect x="41.084" y="25.080" width="12.435" height="2.850" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="41.084" y="25.080" width="12.435" height="2.850" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="41.234" y="25.780"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+type: CHOCOLATETYPE</text>
-<text x="41.234" y="26.580"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+value: Int</text>
-<text x="41.234" y="27.305"  fill="#000000" text-anchor="start" font-size="0.70" font-family="sans" font-style="normal" font-weight="400">
-Valor</text>
-<rect x="41.084" y="27.930" width="12.435" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="41.084" y="27.930" width="12.435" height="1.800" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="41.234" y="28.630"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+chocolateType(): CHOCOLATETYPE</text>
-<text x="41.234" y="29.430"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+getValue(): Int</text>
-<rect x="35.119" y="33.889" width="6.205" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="35.119" y="33.889" width="6.205" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="38.221" y="34.839"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
-CrunchyFrog</text>
-<rect x="35.119" y="35.289" width="6.205" height="0.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="35.119" y="35.289" width="6.205" height="0.400" fill="none" stroke="#000000" stroke-width="0.100" />
-<rect x="35.119" y="35.689" width="6.205" height="0.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="35.119" y="35.689" width="6.205" height="0.400" fill="none" stroke="#000000" stroke-width="0.100" />
-<rect x="45.360" y="33.831" width="7.430" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="45.360" y="33.831" width="7.430" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="49.075" y="34.781"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
-SpringSurprise</text>
-<rect x="45.360" y="35.230" width="7.430" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="45.360" y="35.230" width="7.430" height="1.800" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="45.510" y="35.931"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+wrapped: Bool</text>
-<text x="45.510" y="36.731"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+color: COLOR</text>
-<rect x="45.360" y="37.030" width="7.430" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="45.360" y="37.030" width="7.430" height="1.800" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="45.510" y="37.730"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+getColor(): COLOR</text>
-<text x="45.510" y="38.531"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+isWrapper(): Bool</text>
-<rect x="55.632" y="33.872" width="10.895" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="55.632" y="33.872" width="10.895" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="61.079" y="34.822"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
-RamBladerCup</text>
-<rect x="55.632" y="35.272" width="10.895" height="1.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="55.632" y="35.272" width="10.895" height="1.000" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="55.782" y="35.972"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+type: RAMTYPE</text>
-<rect x="55.632" y="36.272" width="10.895" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="55.632" y="36.272" width="10.895" height="1.800" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="55.782" y="36.972"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+getType(): RAMTYPE</text>
-<text x="55.782" y="37.772"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+ramBladerCup(type:RAMTYPE)</text>
-<rect x="33.215" y="-12.117" width="50.374" height="26.929" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="33.215" y="-12.117" width="50.374" height="26.929" fill="none" stroke="#000000" stroke-width="0.100" />
-<rect x="33.215" y="-13.117" width="2.895" height="1.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="33.215" y="-13.117" width="2.895" height="1.000" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="33.315" y="-12.367"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-Machine</text>
-<rect x="35.730" y="-11.032" width="13.590" height="2.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="35.730" y="-11.032" width="13.590" height="2.200" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="42.525" y="-10.232"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-&lt;&lt;interface&gt;&gt;</text>
-<text x="42.525" y="-9.282"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
-Machine</text>
-<rect x="35.730" y="-8.832" width="13.590" height="2.600" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="35.730" y="-8.832" width="13.590" height="2.600" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="35.880" y="-8.132"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+type: MACHINETYPE</text>
-<text x="35.880" y="-7.332"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+products: List&lt;Product&gt;</text>
-<text x="35.880" y="-6.532"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+queue: Stack&lt;ChocolateOrder&gt;</text>
-<rect x="35.730" y="-6.232" width="13.590" height="3.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="35.730" y="-6.232" width="13.590" height="3.400" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="35.880" y="-5.532"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+machine(type:MACHINETYPE)</text>
-<text x="35.880" y="-4.732"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+getType(): MACHINETYPE</text>
-<text x="35.880" y="-3.932"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+addChocOrder(choc:ChocolateOrder)</text>
-<text x="35.880" y="-3.132"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+finishtAt(): DateTime</text>
-<rect x="53.215" y="-11.105" width="6.947" height="2.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="53.215" y="-11.105" width="6.947" height="2.200" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="56.689" y="-10.305"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-&lt;&lt;enumeration&gt;&gt;</text>
-<text x="56.689" y="-9.355"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
-MACHINETYPE</text>
-<rect x="53.215" y="-8.905" width="6.947" height="2.600" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="53.215" y="-8.905" width="6.947" height="2.600" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="53.365" y="-8.205"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+X</text>
-<text x="53.365" y="-7.405"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+Y</text>
-<text x="53.365" y="-6.605"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+Z</text>
-<rect x="67.919" y="24.074" width="8.125" height="2.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="67.919" y="24.074" width="8.125" height="2.200" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="71.981" y="24.874"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-&lt;&lt;enumeration&gt;&gt;</text>
-<text x="71.981" y="25.824"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
-CHOCOLATETYPE</text>
-<rect x="67.919" y="26.274" width="8.125" height="2.600" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="67.919" y="26.274" width="8.125" height="2.600" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="68.069" y="26.974"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+CrunchyFrog</text>
-<text x="68.069" y="27.774"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+SpringSurprise</text>
-<text x="68.069" y="28.574"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+RamBladerCup</text>
-<rect x="69.966" y="32.528" width="5.505" height="2.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="69.966" y="32.528" width="5.505" height="2.200" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="72.718" y="33.328"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-&lt;&lt;enumerate&gt;&gt;</text>
-<text x="72.718" y="34.278"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
-RAMTYPE</text>
-<rect x="69.966" y="34.728" width="5.505" height="4.450" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="69.966" y="34.728" width="5.505" height="4.450" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="70.116" y="35.428"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+SQUARE</text>
-<text x="70.116" y="36.228"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+OVAL</text>
-<text x="70.116" y="37.028"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+HEXAGONAL</text>
-<text x="70.116" y="37.828"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+BUTTERFLY</text>
-<text x="70.116" y="38.553"  fill="#000000" text-anchor="start" font-size="0.70" font-family="sans" font-style="normal" font-weight="400">
-0.07 extra</text>
-<polyline fill="none" stroke="#000000" stroke-width="0.100" stroke-dasharray="0.40,0.40" points="47.301,30.692 47.301,32.201 61.079,32.201 61.079,33.822 "/>
-<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="47.701,30.692 47.301,29.892 46.901,30.692 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="47.701,30.692 47.301,29.892 46.901,30.692 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100" stroke-dasharray="0.40,0.40" points="47.301,30.692 47.301,32.180 49.075,32.180 49.075,33.780 "/>
-<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="47.701,30.692 47.301,29.892 46.901,30.692 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="47.701,30.692 47.301,29.892 46.901,30.692 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100" stroke-dasharray="0.40,0.40" points="47.301,30.692 47.301,32.209 38.221,32.209 38.221,33.839 "/>
-<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="47.701,30.692 47.301,29.892 46.901,30.692 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="47.701,30.692 47.301,29.892 46.901,30.692 "/>
-<rect x="33.385" y="4.622" width="22.445" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="33.385" y="4.622" width="22.445" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="44.608" y="5.572"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
-X</text>
-<rect x="33.385" y="6.022" width="22.445" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="33.385" y="6.022" width="22.445" height="1.800" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="33.535" y="6.722"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+products: List&lt;Product&gt; = CrunchyFrog:2,SpringSurprise:7</text>
-<text x="33.535" y="7.522"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+type: X</text>
-<rect x="42.881" y="9.360" width="29.375" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="42.881" y="9.360" width="29.375" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="57.568" y="10.310"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
-Y</text>
-<rect x="42.881" y="10.760" width="29.375" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="42.881" y="10.760" width="29.375" height="1.800" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="43.031" y="11.460"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+products: List&lt;Product&gt; = CrunchyFrog:4,RamBladderCup:18,SpringSurprise:10</text>
-<text x="43.031" y="12.260"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+type: Y</text>
-<rect x="59.079" y="4.938" width="16.670" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="59.079" y="4.938" width="16.670" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="67.414" y="5.888"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
-Z</text>
-<rect x="59.079" y="6.338" width="16.670" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="59.079" y="6.338" width="16.670" height="1.800" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="59.229" y="7.038"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+products: List&lt;product&gt; = RamBladderCup:5</text>
-<text x="59.229" y="7.838"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+type: Z</text>
-<polyline fill="none" stroke="#000000" stroke-width="0.100" stroke-dasharray="0.40,0.40" points="42.525,-1.870 42.525,1.295 44.608,1.295 44.608,4.572 "/>
-<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="42.925,-1.870 42.525,-2.670 42.125,-1.870 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="42.925,-1.870 42.525,-2.670 42.125,-1.870 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100" stroke-dasharray="0.40,0.40" points="42.525,-1.870 42.525,1.453 67.414,1.453 67.414,4.888 "/>
-<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="42.925,-1.870 42.525,-2.670 42.125,-1.870 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="42.925,-1.870 42.525,-2.670 42.125,-1.870 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100" stroke-dasharray="0.40,0.40" points="42.525,-1.870 42.525,3.664 57.568,3.664 57.568,9.310 "/>
-<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="42.925,-1.870 42.525,-2.670 42.125,-1.870 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="42.925,-1.870 42.525,-2.670 42.125,-1.870 "/>
-<rect x="6.091" y="-12.323" width="16.510" height="25.485" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="6.091" y="-12.323" width="16.510" height="25.485" fill="none" stroke="#000000" stroke-width="0.100" />
-<rect x="6.091" y="-13.323" width="2.125" height="1.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="6.091" y="-13.323" width="2.125" height="1.000" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="6.191" y="-12.573"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-Order</text>
-<rect x="7.214" y="-8.828" width="13.205" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="7.214" y="-8.828" width="13.205" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="13.817" y="-7.878"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
-Order</text>
-<rect x="7.214" y="-7.428" width="13.205" height="2.600" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="7.214" y="-7.428" width="13.205" height="2.600" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="7.364" y="-6.728"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+date: DateTime</text>
-<text x="7.364" y="-5.928"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+chocolates: List&lt;ChocolateOrder&gt;</text>
-<text x="7.364" y="-5.128"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+total: Int</text>
-<rect x="7.214" y="-4.828" width="13.205" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="7.214" y="-4.828" width="13.205" height="1.800" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="7.364" y="-4.128"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+Order(date:DateTime)</text>
-<text x="7.364" y="-3.328"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+addChocolate(ch:ChocolateOrder)</text>
-<rect x="6.931" y="1.835" width="14.360" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="6.931" y="1.835" width="14.360" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="14.111" y="2.785"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
-CholoateOrder</text>
-<rect x="6.931" y="3.235" width="14.360" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="6.931" y="3.235" width="14.360" height="1.800" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="7.081" y="3.935"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+amount: Int</text>
-<text x="7.081" y="4.735"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+choc: Chocolate</text>
-<rect x="6.931" y="5.035" width="14.360" height="2.600" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="6.931" y="5.035" width="14.360" height="2.600" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="7.081" y="5.735"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+ChocolotaOrder(chocolate:Chocolate)</text>
-<text x="7.081" y="6.535"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+getAmount(): Int</text>
-<text x="7.081" y="7.335"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+getChoc(): Chocolate</text>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="50.629,-6.932 51.618,-6.932 51.618,-8.705 53.165,-8.705 "/>
-<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="49.371,-6.932 50.071,-7.172 50.771,-6.932 50.071,-6.692 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="49.371,-6.932 50.071,-7.172 50.771,-6.932 50.071,-6.692 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="54.828,26.305 61.069,26.305 61.069,26.474 67.868,26.474 "/>
-<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="53.569,26.305 54.269,26.065 54.969,26.305 54.269,26.545 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="53.569,26.305 54.269,26.065 54.969,26.305 54.269,26.545 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="67.836,35.972 68.596,35.972 68.596,35.853 69.916,35.853 "/>
-<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="66.577,35.972 67.277,35.732 67.977,35.972 67.277,36.212 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="66.577,35.972 67.277,35.732 67.977,35.972 67.277,36.212 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="13.817,-1.719 13.817,-0.246 14.111,-0.246 14.111,1.785 "/>
-<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="13.817,-2.977 14.057,-2.277 13.817,-1.577 13.577,-2.277 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="13.817,-2.977 14.057,-2.277 13.817,-1.577 13.577,-2.277 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="14.111,8.944 14.111,15.607 47.301,15.607 47.301,22.829 "/>
-<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="14.111,7.686 14.351,8.386 14.111,9.086 13.871,8.386 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="14.111,7.686 14.351,8.386 14.111,9.086 13.871,8.386 "/>
-<rect x="-22.922" y="-17.022" width="24.017" height="17.777" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-22.922" y="-17.022" width="24.017" height="17.777" fill="none" stroke="#000000" stroke-width="0.100" />
-<rect x="-22.922" y="-18.022" width="3.280" height="1.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-22.922" y="-18.022" width="3.280" height="1.000" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-22.822" y="-17.272"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-Mediator</text>
-<rect x="-15.397" y="-15.719" width="7.190" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-15.397" y="-15.719" width="7.190" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-11.802" y="-14.769"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
-ModelManager</text>
-<rect x="-18.303" y="-10.820" width="12.820" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-18.303" y="-10.820" width="12.820" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-11.893" y="-9.870"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
-DataBaseManager</text>
-<rect x="-18.303" y="-9.420" width="12.820" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-18.303" y="-9.420" width="12.820" height="1.800" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-18.153" y="-8.720"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+DBManager: DataBaseManager</text>
-<line x1="-18.153" y1="-8.441" x2="-7.758" y2="-8.441" stroke="#000000" stroke-width="0.050" />
-<text x="-18.153" y="-7.921"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+DBName: String = &quot;whizzo.db&quot;</text>
-<rect x="-18.303" y="-7.620" width="12.820" height="7.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-18.303" y="-7.620" width="12.820" height="7.400" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-18.153" y="-6.920"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+DataBaseManager()()</text>
-<text x="-18.153" y="-6.120"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+insertChocolate(choc:Chocolate)</text>
-<text x="-18.153" y="-5.320"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+deleteChocolate(choc:Chocolate)</text>
-<text x="-18.153" y="-4.520"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+insertOrder(order:Order)</text>
-<text x="-18.153" y="-3.720"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+deleteOrder(order:Order)</text>
-<text x="-18.153" y="-2.920"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+insertCustomer(cus:Customer)</text>
-<text x="-18.153" y="-2.120"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+deleteCustomer(Id:Int)</text>
-<text x="-18.153" y="-1.320"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+insertMachine(mach:Machine)</text>
-<text x="-18.153" y="-0.520"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+deleteMachine(mach:Machine)</text>
-<rect x="-40.257" y="-7.510" width="11.015" height="4.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-40.257" y="-7.510" width="11.015" height="4.000" fill="none" stroke="#000000" stroke-width="0.100" />
-<rect x="-40.257" y="-8.510" width="2.895" height="1.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-40.257" y="-8.510" width="2.895" height="1.000" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-40.157" y="-7.760"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-Utility</text>
-<rect x="-38.403" y="-6.399" width="7.470" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-38.403" y="-6.399" width="7.470" height="1.800" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-34.668" y="-5.304"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-DAtabase:whizzo.db</text>
-<line x1="-37.903" y1="-5.154" x2="-31.433" y2="-5.154" stroke="#000000" stroke-width="0.050" />
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-18.354,-5.520 -24.618,-5.520 -24.618,-5.499 -30.659,-5.499 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-30.271,-5.749 -30.771,-5.499 -30.271,-5.249 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-11.893,-10.871 -11.893,-12.570 -11.802,-12.570 -11.802,-14.045 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-11.552,-13.657 -11.802,-14.157 -12.052,-13.657 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-8.158,-15.019 2.758,-15.019 2.758,0.419 5.828,0.419 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="5.440,0.669 5.940,0.419 5.440,0.169 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-8.157,-15.019 2.733,-15.019 2.733,25.218 5.817,25.218 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="5.429,25.468 5.929,25.218 5.429,24.968 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-8.157,-15.019 24.427,-15.019 24.427,-15.134 57.977,-15.134 57.977,-12.117 58.179,-12.117 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="57.790,-11.867 58.290,-12.117 57.790,-12.367 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-8.207,-15.019 -8.207,-15.134 27.706,-15.134 27.706,16.818 55.842,16.818 55.842,17.555 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="55.592,17.167 55.842,17.667 56.092,17.167 "/>
-<rect x="2.569" y="-27.833" width="13.855" height="6.120" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="2.569" y="-27.833" width="13.855" height="6.120" fill="none" stroke="#000000" stroke-width="0.100" />
-<rect x="2.569" y="-28.833" width="4.435" height="1.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="2.569" y="-28.833" width="4.435" height="1.000" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="2.669" y="-28.083"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-Controllers</text>
-<rect x="4.824" y="-24.896" width="7.995" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="4.824" y="-24.896" width="7.995" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="8.821" y="-23.946"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
-ServerController</text>
-<rect x="3.823" y="-35.698" width="10.136" height="5.050" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="3.823" y="-35.698" width="10.136" height="5.050" fill="none" stroke="#000000" stroke-width="0.100" />
-<rect x="3.823" y="-36.698" width="2.125" height="1.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="3.823" y="-36.698" width="2.125" height="1.000" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="3.923" y="-35.948"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-Views</text>
-<rect x="5.920" y="-34.919" width="5.635" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="5.920" y="-34.919" width="5.635" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="8.738" y="-33.969"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
-ServerView</text>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="8.821,-23.446 8.821,-20.350 -11.802,-20.350 -11.802,-15.993 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-12.052,-16.381 -11.802,-15.881 -11.552,-16.381 "/>
-<rect x="-31.301" y="-49.162" width="10.277" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-31.301" y="-49.162" width="10.277" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-26.163" y="-48.212"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
-java::util::Observable</text>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-32.263,-48.462 -34.291,-48.462 -34.291,-15.019 -15.426,-15.019 "/>
-<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="-32.263,-48.062 -31.463,-48.462 -32.263,-48.862 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-32.263,-48.062 -31.463,-48.462 -32.263,-48.862 "/>
-<rect x="0.821" y="-49.887" width="12.820" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="0.821" y="-49.887" width="12.820" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="7.231" y="-48.937"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
-java::util::Observer</text>
-<rect x="0.821" y="-48.487" width="12.820" height="0.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="0.821" y="-48.487" width="12.820" height="0.400" fill="none" stroke="#000000" stroke-width="0.100" />
-<rect x="0.821" y="-48.087" width="12.820" height="1.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="0.821" y="-48.087" width="12.820" height="1.000" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="0.971" y="-47.387"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+update(o:Observable,arg:Object)</text>
-<polyline fill="none" stroke="#000000" stroke-width="0.100" stroke-dasharray="0.40,0.40" points="7.231,-46.125 7.231,-35.730 8.738,-35.730 8.738,-34.969 "/>
-<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="7.631,-46.125 7.231,-46.925 6.831,-46.125 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="7.631,-46.125 7.231,-46.925 6.831,-46.125 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-20.973,-48.462 -10.102,-48.462 -10.102,-48.487 0.547,-48.487 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="0.159,-48.237 0.659,-48.487 0.159,-48.737 "/>
-<rect x="59.027" y="-4.913" width="17.440" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="59.027" y="-4.913" width="17.440" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="67.747" y="-3.963"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
-Product</text>
-<rect x="59.027" y="-3.513" width="17.440" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="59.027" y="-3.513" width="17.440" height="1.800" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="59.177" y="-2.813"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+chocType: CHOCOLATETYPE</text>
-<text x="59.177" y="-2.013"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+productTime: Int</text>
-<rect x="59.027" y="-1.713" width="17.440" height="1.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="59.027" y="-1.713" width="17.440" height="1.000" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="59.177" y="-1.013"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-+product(choc:CHOCOLATETYPE,producttime:Int)</text>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="50.629,-6.932 51.281,-6.932 51.281,-2.813 58.977,-2.813 "/>
-<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="49.370,-6.932 50.070,-7.172 50.770,-6.932 50.070,-6.692 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="49.370,-6.932 50.070,-7.172 50.770,-6.932 50.070,-6.692 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="71.981,22.766 71.981,16.501 78.091,16.501 78.091,-2.813 76.516,-2.813 "/>
-<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="71.981,24.024 71.741,23.324 71.981,22.624 72.221,23.324 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="71.981,24.024 71.741,23.324 71.981,22.624 72.221,23.324 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="42.525,-12.341 42.525,-13.750 25.350,-13.750 25.350,0.700 14.111,0.700 14.111,1.785 "/>
-<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="42.525,-11.082 42.285,-11.782 42.525,-12.482 42.765,-11.782 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="42.525,-11.082 42.285,-11.782 42.525,-12.482 42.765,-11.782 "/>
-<rect x="4.982" y="-26.969" width="7.655" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="4.982" y="-26.969" width="7.655" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="8.809" y="-26.019"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
-ClientController</text>
-<rect x="6.198" y="-32.797" width="5.295" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="6.198" y="-32.797" width="5.295" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="8.846" y="-31.847"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
-ClientView</text>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="4.982,-26.269 4.982,-26.730 3.701,-26.730 3.701,-20.350 -11.802,-20.350 -11.802,-15.993 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-12.052,-16.381 -11.802,-15.881 -11.552,-16.381 "/>
-<rect x="21.844" y="-31.444" width="14.107" height="6.265" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="21.844" y="-31.444" width="14.107" height="6.265" fill="none" stroke="#000000" stroke-width="0.100" />
-<rect x="21.844" y="-32.444" width="2.895" height="1.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="21.844" y="-32.444" width="2.895" height="1.000" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="21.944" y="-31.694"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
-Product</text>
-<rect x="24.711" y="-29.874" width="6.340" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="24.711" y="-29.874" width="6.340" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="27.881" y="-28.924"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
-WhizzoClient</text>
-<rect x="24.891" y="-27.523" width="6.680" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="24.891" y="-27.523" width="6.680" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="28.231" y="-26.573"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
-WhizzoServer</text>
-<rect x="-9.803" y="-25.423" width="5.935" height="1.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-9.803" y="-25.423" width="5.935" height="1.400" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-6.836" y="-24.473"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
-C-SCommon</text>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="8.809,-27.019 8.809,-29.183 8.846,-29.183 8.846,-31.123 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="9.096,-30.735 8.846,-31.235 8.596,-30.735 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="8.821,-24.939 8.821,-25.176 15.284,-25.176 15.284,-34.219 11.829,-34.219 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="12.217,-34.469 11.717,-34.219 12.217,-33.969 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="24.711,-29.174 18.699,-29.174 18.699,-26.269 12.911,-26.269 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="13.299,-26.519 12.799,-26.269 13.299,-26.019 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="28.231,-26.073 28.231,-23.014 12.819,-23.014 12.819,-23.972 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="13.069,-23.584 12.819,-24.084 12.569,-23.584 "/>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="129cm" height="97cm" viewBox="-807 -1012 2580 1924" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="-503.414" y="-786.744" width="2275.59" height="1697.81"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-503.414" y="-786.744" width="2275.59" height="1697.81"/>
+    <rect style="fill: #ffffff" x="-503.414" y="-806.744" width="50.2" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-503.414" y="-806.744" width="50.2" height="20"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-501.414" y="-791.744">whizzo</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-479.93" y="-377.316" width="2220.21" height="1253.66"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-479.93" y="-377.316" width="2220.21" height="1253.66"/>
+    <rect style="fill: #ffffff" x="-479.93" y="-397.316" width="50.2" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-479.93" y="-397.316" width="50.2" height="20"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-477.93" y="-382.316">domain</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-201.09" y="-739.612" width="950.912" height="322.339"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-201.09" y="-739.612" width="950.912" height="322.339"/>
+    <rect style="fill: #ffffff" x="-201.09" y="-759.612" width="104.1" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-201.09" y="-759.612" width="104.1" height="20"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-199.09" y="-744.612">Client-Server</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="81.8288" y="-335.616" width="1621.38" height="1176.34"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="81.8288" y="-335.616" width="1621.38" height="1176.34"/>
+    <rect style="fill: #ffffff" x="81.8288" y="-355.616" width="50.2" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="81.8288" y="-355.616" width="50.2" height="20"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="83.8288" y="-340.616">Models</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="121.829" y="384.356" width="460" height="240"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="121.829" y="384.356" width="460" height="240"/>
+    <rect style="fill: #ffffff" x="121.829" y="364.356" width="65.6" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="121.829" y="364.356" width="65.6" height="20"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="123.829" y="379.356">Customer</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="647.45" y="376.556" width="938.771" height="422.724"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="647.45" y="376.556" width="938.771" height="422.724"/>
+    <rect style="fill: #ffffff" x="647.45" y="356.556" width="73.3" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="647.45" y="356.556" width="73.3" height="20"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="649.45" y="371.556">Chocolate</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="141.829" y="412.062" width="410.4" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="141.829" y="412.062" width="410.4" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="347.029" y="431.062">Customer</text>
+    <rect style="fill: #ffffff" x="141.829" y="440.062" width="410.4" height="100"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="141.829" y="440.062" width="410.4" height="100"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="144.829" y="454.062">+name: String</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="144.829" y="470.062">+contact: String</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="144.829" y="486.062">+address: String</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="144.829" y="502.062">+orders: List&lt;Order&gt;</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="144.829" y="518.062">+ID: Int</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="144.829" y="534.062">+total: Int</text>
+    <rect style="fill: #ffffff" x="141.829" y="540.062" width="410.4" height="68"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="141.829" y="540.062" width="410.4" height="68"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="144.829" y="554.062">+Customer(name:String,contact:String,address:String,</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="144.829" y="570.062">          ID:Int)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="144.829" y="586.062">+addOrder(order:Order)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="144.829" y="602.062">+deleteOrder(date:DateTime)</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="821.676" y="457.592" width="248.7" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="821.676" y="457.592" width="248.7" height="44"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="946.026" y="473.592">&lt;&lt;interface&gt;&gt;</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="946.026" y="492.592">Chocolate</text>
+    <rect style="fill: #ffffff" x="821.676" y="501.592" width="248.7" height="57"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="821.676" y="501.592" width="248.7" height="57"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="824.676" y="515.592">+type: CHOCOLATETYPE</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="824.676" y="531.592">+value: Int</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:italic;font-weight:normal" x="824.676" y="546.092">Valor</text>
+    <rect style="fill: #ffffff" x="821.676" y="558.592" width="248.7" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="821.676" y="558.592" width="248.7" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="824.676" y="572.592">+chocolateType(): CHOCOLATETYPE</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="824.676" y="588.592">+getValue(): Int</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="702.378" y="677.782" width="124.1" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="702.378" y="677.782" width="124.1" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="764.428" y="696.782">CrunchyFrog</text>
+    <rect style="fill: #ffffff" x="702.378" y="705.782" width="124.1" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="702.378" y="705.782" width="124.1" height="8"/>
+    <rect style="fill: #ffffff" x="702.378" y="713.782" width="124.1" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="702.378" y="713.782" width="124.1" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="907.208" y="676.61" width="148.6" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="907.208" y="676.61" width="148.6" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="981.508" y="695.61">SpringSurprise</text>
+    <rect style="fill: #ffffff" x="907.208" y="704.61" width="148.6" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="907.208" y="704.61" width="148.6" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="910.208" y="718.61">+wrapped: Bool</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="910.208" y="734.61">+color: COLOR</text>
+    <rect style="fill: #ffffff" x="907.208" y="740.61" width="148.6" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="907.208" y="740.61" width="148.6" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="910.208" y="754.61">+getColor(): COLOR</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="910.208" y="770.61">+isWrapper(): Bool</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1112.64" y="677.446" width="217.9" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1112.64" y="677.446" width="217.9" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1221.59" y="696.446">RamBladerCup</text>
+    <rect style="fill: #ffffff" x="1112.64" y="705.446" width="217.9" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1112.64" y="705.446" width="217.9" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1115.64" y="719.446">+type: RAMTYPE</text>
+    <rect style="fill: #ffffff" x="1112.64" y="725.446" width="217.9" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1112.64" y="725.446" width="217.9" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1115.64" y="739.446">+getType(): RAMTYPE</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1115.64" y="755.446">+ramBladerCup(type:RAMTYPE)</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="664.304" y="-242.334" width="1007.48" height="538.574"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="664.304" y="-242.334" width="1007.48" height="538.574"/>
+    <rect style="fill: #ffffff" x="664.304" y="-262.334" width="57.9" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="664.304" y="-262.334" width="57.9" height="20"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="666.304" y="-247.334">Machine</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="714.602" y="-220.642" width="271.8" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="714.602" y="-220.642" width="271.8" height="44"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="850.502" y="-204.642">&lt;&lt;interface&gt;&gt;</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="850.502" y="-185.642">Machine</text>
+    <rect style="fill: #ffffff" x="714.602" y="-176.642" width="271.8" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="714.602" y="-176.642" width="271.8" height="52"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="717.602" y="-162.642">+type: MACHINETYPE</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="717.602" y="-146.642">+products: List&lt;Product&gt;</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="717.602" y="-130.642">+queue: Stack&lt;ChocolateOrder&gt;</text>
+    <rect style="fill: #ffffff" x="714.602" y="-124.642" width="271.8" height="68"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="714.602" y="-124.642" width="271.8" height="68"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="717.602" y="-110.642">+machine(type:MACHINETYPE)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="717.602" y="-94.642">+getType(): MACHINETYPE</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="717.602" y="-78.642">+addChocOrder(choc:ChocolateOrder)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="717.602" y="-62.642">+finishtAt(): DateTime</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1064.3" y="-222.1" width="138.95" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1064.3" y="-222.1" width="138.95" height="44"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1133.78" y="-206.1">&lt;&lt;enumeration&gt;&gt;</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1133.78" y="-187.1">MACHINETYPE</text>
+    <rect style="fill: #ffffff" x="1064.3" y="-178.1" width="138.95" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1064.3" y="-178.1" width="138.95" height="52"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1067.3" y="-164.1">+X</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1067.3" y="-148.1">+Y</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1067.3" y="-132.1">+Z</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1358.37" y="481.488" width="162.5" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1358.37" y="481.488" width="162.5" height="44"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1439.62" y="497.488">&lt;&lt;enumeration&gt;&gt;</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1439.62" y="516.488">CHOCOLATETYPE</text>
+    <rect style="fill: #ffffff" x="1358.37" y="525.488" width="162.5" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1358.37" y="525.488" width="162.5" height="52"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1361.37" y="539.488">+CrunchyFrog</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1361.37" y="555.488">+SpringSurprise</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1361.37" y="571.488">+RamBladerCup</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1399.32" y="650.556" width="110.1" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1399.32" y="650.556" width="110.1" height="44"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1454.37" y="666.556">&lt;&lt;enumerate&gt;&gt;</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1454.37" y="685.556">RAMTYPE</text>
+    <rect style="fill: #ffffff" x="1399.32" y="694.556" width="110.1" height="89"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1399.32" y="694.556" width="110.1" height="89"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1402.32" y="708.556">+SQUARE</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1402.32" y="724.556">+OVAL</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1402.32" y="740.556">+HEXAGONAL</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1402.32" y="756.556">+BUTTERFLY</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:italic;font-weight:normal" x="1402.32" y="771.056">0.07 extra</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="946.026,613.837 946.026,644.021 1221.59,644.021 1221.59,676.441 "/>
+    <polygon style="fill: #ffffff" points="954.026,613.837 946.026,597.837 938.026,613.837 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="954.026,613.837 946.026,597.837 938.026,613.837 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="946.026,613.837 946.026,643.602 981.508,643.602 981.508,675.604 "/>
+    <polygon style="fill: #ffffff" points="954.026,613.837 946.026,597.837 938.026,613.837 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="954.026,613.837 946.026,597.837 938.026,613.837 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="946.026,613.837 946.026,644.188 764.428,644.188 764.428,676.776 "/>
+    <polygon style="fill: #ffffff" points="954.026,613.837 946.026,597.837 938.026,613.837 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="954.026,613.837 946.026,597.837 938.026,613.837 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="667.708" y="92.4412" width="448.9" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="667.708" y="92.4412" width="448.9" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="892.158" y="111.441">X</text>
+    <rect style="fill: #ffffff" x="667.708" y="120.441" width="448.9" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="667.708" y="120.441" width="448.9" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="670.708" y="134.441">+products: List&lt;Product&gt; = CrunchyFrog:2,SpringSurprise:7</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="670.708" y="150.441">+type: X</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="857.616" y="187.208" width="587.5" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="857.616" y="187.208" width="587.5" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1151.37" y="206.208">Y</text>
+    <rect style="fill: #ffffff" x="857.616" y="215.208" width="587.5" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="857.616" y="215.208" width="587.5" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="860.616" y="229.208">+products: List&lt;Product&gt; = CrunchyFrog:4,RamBladderCup:18,SpringSurprise:10</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="860.616" y="245.208">+type: Y</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1181.59" y="98.766" width="333.4" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1181.59" y="98.766" width="333.4" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1348.29" y="117.766">Z</text>
+    <rect style="fill: #ffffff" x="1181.59" y="126.766" width="333.4" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1181.59" y="126.766" width="333.4" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1184.59" y="140.766">+products: List&lt;product&gt; = RamBladderCup:5</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1184.59" y="156.766">+type: Z</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="850.502,-37.4009 850.502,25.8981 892.158,25.8981 892.158,91.4331 "/>
+    <polygon style="fill: #ffffff" points="858.502,-37.4009 850.502,-53.4009 842.502,-37.4009 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="858.502,-37.4009 850.502,-53.4009 842.502,-37.4009 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="850.502,-37.4009 850.502,29.0605 1348.29,29.0605 1348.29,97.7579 "/>
+    <polygon style="fill: #ffffff" points="858.502,-37.4009 850.502,-53.4009 842.502,-37.4009 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="858.502,-37.4009 850.502,-53.4009 842.502,-37.4009 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="850.502,-37.4009 850.502,73.2813 1151.37,73.2813 1151.37,186.2 "/>
+    <polygon style="fill: #ffffff" points="858.502,-37.4009 850.502,-53.4009 842.502,-37.4009 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="858.502,-37.4009 850.502,-53.4009 842.502,-37.4009 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="121.818" y="-246.466" width="330.197" height="509.693"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="121.818" y="-246.466" width="330.197" height="509.693"/>
+    <rect style="fill: #ffffff" x="121.818" y="-266.466" width="42.5" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="121.818" y="-266.466" width="42.5" height="20"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="123.818" y="-251.466">Order</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="144.283" y="-176.557" width="264.1" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="144.283" y="-176.557" width="264.1" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="276.333" y="-157.557">Order</text>
+    <rect style="fill: #ffffff" x="144.283" y="-148.557" width="264.1" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="144.283" y="-148.557" width="264.1" height="52"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="147.283" y="-134.557">+date: DateTime</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="147.283" y="-118.557">+chocolates: List&lt;ChocolateOrder&gt;</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="147.283" y="-102.557">+total: Int</text>
+    <rect style="fill: #ffffff" x="144.283" y="-96.5572" width="264.1" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="144.283" y="-96.5572" width="264.1" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="147.283" y="-82.5572">+Order(date:DateTime)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="147.283" y="-66.5572">+addChocolate(ch:ChocolateOrder)</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="138.617" y="36.7062" width="287.2" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="138.617" y="36.7062" width="287.2" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="282.217" y="55.7062">CholoateOrder</text>
+    <rect style="fill: #ffffff" x="138.617" y="64.7062" width="287.2" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="138.617" y="64.7062" width="287.2" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="141.617" y="78.7062">+amount: Int</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="141.617" y="94.7062">+choc: Chocolate</text>
+    <rect style="fill: #ffffff" x="138.617" y="100.706" width="287.2" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="138.617" y="100.706" width="287.2" height="52"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="141.617" y="114.706">+ChocolotaOrder(chocolate:Chocolate)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="141.617" y="130.706">+getAmount(): Int</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="141.617" y="146.706">+getChoc(): Chocolate</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1012.58,-138.642 1032.35,-138.642 1032.35,-174.1 1063.29,-174.1 "/>
+    <polygon style="fill: #ffffff" points="987.41,-138.642 1001.41,-143.442 1015.41,-138.642 1001.41,-133.842 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="987.41,-138.642 1001.41,-143.442 1015.41,-138.642 1001.41,-133.842 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1034.35" y="-159.371"></text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1019.41" y="-141.642"></text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="1059.29" y="-177.1"></text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1096.56,526.092 1221.38,526.092 1221.38,529.488 1357.37,529.488 "/>
+    <polygon style="fill: #ffffff" points="1071.38,526.092 1085.38,521.292 1099.38,526.092 1085.38,530.892 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1071.38,526.092 1085.38,521.292 1099.38,526.092 1085.38,530.892 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1223.38" y="524.79"></text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1103.38" y="523.092"></text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="1353.37" y="526.488"></text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1356.72,719.446 1371.93,719.446 1371.93,717.056 1398.31,717.056 "/>
+    <polygon style="fill: #ffffff" points="1331.54,719.446 1345.54,714.646 1359.54,719.446 1345.54,724.246 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1331.54,719.446 1345.54,714.646 1359.54,719.446 1345.54,724.246 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1373.93" y="715.251"></text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1363.54" y="716.446"></text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="1394.31" y="714.056"></text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="276.333,-34.3784 276.333,-4.9255 282.217,-4.9255 282.217,35.699 "/>
+    <polygon style="fill: #ffffff" points="276.333,-59.55 281.133,-45.55 276.333,-31.55 271.533,-45.55 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="276.333,-59.55 281.133,-45.55 276.333,-31.55 271.533,-45.55 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="279.275" y="-7.9255"></text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="287.333" y="-47.55"></text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="286.217" y="31.699"></text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="282.217,178.885 282.217,312.148 946.026,312.148 946.026,456.584 "/>
+    <polygon style="fill: #ffffff" points="282.217,153.713 287.017,167.713 282.217,181.713 277.417,167.713 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="282.217,153.713 287.017,167.713 282.217,181.713 277.417,167.713 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="614.121" y="309.148"></text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="293.217" y="165.713"></text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="950.026" y="452.584"></text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-458.434" y="-340.446" width="480.341" height="355.542"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-458.434" y="-340.446" width="480.341" height="355.542"/>
+    <rect style="fill: #ffffff" x="-458.434" y="-360.446" width="65.6" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-458.434" y="-360.446" width="65.6" height="20"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-456.434" y="-345.446">Mediator</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-307.944" y="-314.386" width="143.8" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-307.944" y="-314.386" width="143.8" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-236.044" y="-295.386">ModelManager</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-366.066" y="-216.41" width="256.4" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-366.066" y="-216.41" width="256.4" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-237.866" y="-197.41">DataBaseManager</text>
+    <rect style="fill: #ffffff" x="-366.066" y="-188.41" width="256.4" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-366.066" y="-188.41" width="256.4" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-363.066" y="-174.41">+DBManager: DataBaseManager</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="-363.066" y1="-168.81" x2="-155.166" y2="-168.81"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-363.066" y="-158.41">+DBName: String = "whizzo.db"</text>
+    <rect style="fill: #ffffff" x="-366.066" y="-152.41" width="256.4" height="148"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-366.066" y="-152.41" width="256.4" height="148"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-363.066" y="-138.41">+DataBaseManager()()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-363.066" y="-122.41">+insertChocolate(choc:Chocolate)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-363.066" y="-106.41">+deleteChocolate(choc:Chocolate)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-363.066" y="-90.41">+insertOrder(order:Order)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-363.066" y="-74.41">+deleteOrder(order:Order)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-363.066" y="-58.41">+insertCustomer(cus:Customer)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-363.066" y="-42.41">+deleteCustomer(Id:Int)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-363.066" y="-26.41">+insertMachine(mach:Machine)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-363.066" y="-10.41">+deleteMachine(mach:Machine)</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-805.146" y="-150.206" width="220.303" height="80"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-805.146" y="-150.206" width="220.303" height="80"/>
+    <rect style="fill: #ffffff" x="-805.146" y="-170.206" width="57.9" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-805.146" y="-170.206" width="57.9" height="20"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-803.146" y="-155.206">Utility</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-768.058" y="-127.976" width="149.4" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-768.058" y="-127.976" width="149.4" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-693.358" y="-106.076">
+      <tspan x="-693.358" y="-106.076">DAtabase:whizzo.db</tspan>
+    </text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="-758.058" y1="-103.076" x2="-628.658" y2="-103.076"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-367.074,-110.41 -492.361,-110.41 -492.361,-109.976 -613.177,-109.976 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-605.413,-114.976 -615.413,-109.976 -605.413,-104.976 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-237.866,-217.417 -237.866,-251.398 -236.044,-251.398 -236.044,-280.907 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-231.044,-273.143 -236.044,-283.143 -241.044,-273.143 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-163.152,-300.386 55.1696,-300.386 55.1696,8.38019 116.555,8.38022 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="108.791,13.3802 118.791,8.38022 108.791,3.38022 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-163.145,-300.386 54.6636,-300.386 54.6636,504.356 116.348,504.356 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="108.584,509.356 118.584,504.356 108.584,499.356 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-163.15,-300.386 488.54,-300.386 488.54,-302.682 1159.54,-302.682 1159.54,-242.334 1163.57,-242.334 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1155.81,-237.334 1165.81,-242.334 1155.81,-247.334 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-164.144,-300.386 -164.144,-302.682 554.126,-302.682 554.126,336.362 1116.84,336.362 1116.84,351.097 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1111.84,343.333 1116.84,353.333 1121.84,343.333 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="51.3838" y="-556.662" width="277.092" height="122.402"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="51.3838" y="-556.662" width="277.092" height="122.402"/>
+    <rect style="fill: #ffffff" x="51.3838" y="-576.662" width="88.7" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="51.3838" y="-576.662" width="88.7" height="20"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="53.3838" y="-561.662">Controllers</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="96.4718" y="-497.914" width="159.9" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="96.4718" y="-497.914" width="159.9" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="176.422" y="-478.914">ServerController</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="76.4622" y="-713.958" width="202.713" height="101.006"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="76.4622" y="-713.958" width="202.713" height="101.006"/>
+    <rect style="fill: #ffffff" x="76.4622" y="-733.958" width="42.5" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="76.4622" y="-733.958" width="42.5" height="20"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="78.4622" y="-718.958">Views</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="118.4" y="-698.38" width="112.7" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="118.4" y="-698.38" width="112.7" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="174.75" y="-679.38">ServerView</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="176.422,-468.92 176.422,-407 -236.044,-407 -236.044,-319.864 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-241.044,-327.628 -236.044,-317.628 -231.044,-327.628 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-626.026" y="-983.242" width="205.55" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-626.026" y="-983.242" width="205.55" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-523.251" y="-964.242">java::util::Observable</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-645.258,-969.242 -685.824,-969.242 -685.824,-300.386 -308.518,-300.386 "/>
+    <polygon style="fill: #ffffff" points="-645.258,-961.242 -629.258,-969.242 -645.258,-977.242 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-645.258,-961.242 -629.258,-969.242 -645.258,-977.242 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="16.4162" y="-997.744" width="256.4" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="16.4162" y="-997.744" width="256.4" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="144.616" y="-978.744">java::util::Observer</text>
+    <rect style="fill: #ffffff" x="16.4162" y="-969.744" width="256.4" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="16.4162" y="-969.744" width="256.4" height="8"/>
+    <rect style="fill: #ffffff" x="16.4162" y="-961.744" width="256.4" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="16.4162" y="-961.744" width="256.4" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="19.4162" y="-947.744">+update(o:Observable,arg:Object)</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="144.616,-922.504 144.616,-714.6 174.75,-714.6 174.75,-699.379 "/>
+    <polygon style="fill: #ffffff" points="152.616,-922.504 144.616,-938.504 136.616,-922.504 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="152.616,-922.504 144.616,-938.504 136.616,-922.504 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-419.47,-969.242 -202.031,-969.242 -202.031,-969.744 10.9362,-969.744 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="3.17225,-964.744 13.1722,-969.744 3.17225,-974.744 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1180.53" y="-98.2624" width="348.8" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1180.53" y="-98.2624" width="348.8" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1354.93" y="-79.2624">Product</text>
+    <rect style="fill: #ffffff" x="1180.53" y="-70.2624" width="348.8" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1180.53" y="-70.2624" width="348.8" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1183.53" y="-56.2624">+chocType: CHOCOLATETYPE</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1183.53" y="-40.2624">+productTime: Int</text>
+    <rect style="fill: #ffffff" x="1180.53" y="-34.2624" width="348.8" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1180.53" y="-34.2624" width="348.8" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1183.53" y="-20.2624">+product(choc:CHOCOLATETYPE,producttime:Int)</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1012.58,-138.642 1025.62,-138.642 1025.62,-56.2624 1179.53,-56.2624 "/>
+    <polygon style="fill: #ffffff" points="987.406,-138.642 1001.41,-143.442 1015.41,-138.642 1001.41,-133.842 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="987.406,-138.642 1001.41,-143.442 1015.41,-138.642 1001.41,-133.842 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1027.62" y="-100.452"></text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1019.41" y="-141.642"></text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="1175.53" y="-59.2624"></text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1439.62,455.312 1439.62,330.012 1561.83,330.012 1561.83,-56.2624 1530.32,-56.2624 "/>
+    <polygon style="fill: #ffffff" points="1439.62,480.483 1434.82,466.483 1439.62,452.483 1444.42,466.483 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1439.62,480.483 1434.82,466.483 1439.62,452.483 1444.42,466.483 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1500.73" y="327.012"></text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1450.62" y="476.483"></text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1534.32" y="-59.2624"></text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="850.502,-246.815 850.502,-275 507,-275 507,14 282.216,14 282.216,35.7036 "/>
+    <polygon style="fill: #ffffff" points="850.502,-221.644 845.702,-235.644 850.502,-249.644 855.302,-235.644 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="850.502,-221.644 845.702,-235.644 850.502,-249.644 855.302,-235.644 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="509" y="-133.5"></text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="861.502" y="-225.644"></text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="286.216" y="31.7036"></text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="99.6348" y="-539.376" width="153.1" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="99.6348" y="-539.376" width="153.1" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="176.185" y="-520.376">ClientController</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="123.965" y="-655.944" width="105.9" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="123.965" y="-655.944" width="105.9" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="176.915" y="-636.944">ClientView</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="99.6348,-525.376 99.6348,-534.6 74.018,-534.6 74.018,-407 -236.044,-407 -236.044,-319.864 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-241.044,-327.628 -236.044,-317.628 -231.044,-327.628 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="436.88" y="-628.876" width="282.147" height="125.293"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="436.88" y="-628.876" width="282.147" height="125.293"/>
+    <rect style="fill: #ffffff" x="436.88" y="-648.876" width="57.9" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="436.88" y="-648.876" width="57.9" height="20"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="438.88" y="-633.876">Loaders</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="494.222" y="-597.484" width="126.8" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="494.222" y="-597.484" width="126.8" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="557.622" y="-578.484">WhizzoClient</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="497.812" y="-550.45" width="133.6" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="497.812" y="-550.45" width="133.6" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="564.612" y="-531.45">WhizzoServer</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-196.063" y="-508.454" width="118.7" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-196.063" y="-508.454" width="118.7" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-136.713" y="-489.454">C-SCommon</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="176.185,-540.383 176.185,-583.66 176.915,-583.66 176.915,-622.465 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="181.915,-614.701 176.915,-624.701 171.915,-614.701 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="176.422,-498.775 176.422,-503.524 305.688,-503.524 305.688,-684.38 236.579,-684.38 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="244.343,-689.38 234.343,-684.38 244.343,-679.38 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="494.222,-583.484 373.983,-583.484 373.983,-525.376 258.216,-525.376 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="265.98,-530.376 255.98,-525.376 265.98,-520.376 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="564.612,-521.452 564.612,-460.28 256.372,-460.28 256.372,-479.442 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="261.372,-471.678 256.372,-481.678 251.372,-471.678 "/>
+  </g>
 </svg>
