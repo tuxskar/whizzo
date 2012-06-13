@@ -39,5 +39,30 @@ public class Y implements Machine {
 		return null;
 	}
 
+	public List<Product> getProducts() {
+		return products;
+	}
+
+	public void setProducts(List<Product> products) {
+		this.products = products;
+	}
+
+	public Stack<ChocolateOrder> getQueue() {
+		return queue;
+	}
+
+	public void setQueue(Stack<ChocolateOrder> queue) {
+		this.queue = queue;
+	}
+
+	public static void setType(MACHINETYPE type) {
+		Y.type = type;
+	}
+
+	@Override
+	public String toString() {
+		return "Y [products=" + products + ", queue=" + queue + "]";
+	}
+
 }
 

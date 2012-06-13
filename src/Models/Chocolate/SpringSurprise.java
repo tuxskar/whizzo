@@ -10,13 +10,21 @@ public abstract class SpringSurprise implements Chocolate {
 		this.color = color;
 		this.wrapped = wrapped;
 	}
-
-	public Color getColor(SpringSurprise item) {
-		return this.color;
+	
+	public boolean isWrapped() {
+		return wrapped;
 	}
 
-	public boolean isWrapper () {
-		return this.wrapped;
+	public Color getColor() {
+		return color;
+	}
+
+	public void setWrapped(boolean wrapped) {
+		this.wrapped = wrapped;
+	}
+
+	public void setColor(Color color) {
+		this.color = color;
 	}
 	
 	public int getValue(int value){
@@ -25,5 +33,10 @@ public abstract class SpringSurprise implements Chocolate {
 	
 	public CHOCOLATETYPE chocolateType(){
 		return CHOCOLATETYPE.SpringSurprise;
+	}
+
+	@Override
+	public String toString() {
+		return "SpringSurprise [wrapped=" + wrapped + ", color=" + color + "]";
 	}
 }

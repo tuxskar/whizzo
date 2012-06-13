@@ -10,12 +10,25 @@ public class ChocolateOrder {
 		this.choc = choc;
 	}
 
-	public int getAmount(int amount) {
+	public int getAmount() {
 		return amount;
 	}
 
 	public Chocolate getChoc() {
-		return this.choc;
+		return choc;
+	}
+
+	public void setAmount(int amount) {
+		this.amount = amount;
+	}
+
+	public void setChoc(Chocolate choc) {
+		this.choc = choc;
+	}
+
+	@Override
+	public String toString() {
+		return "ChocolateOrder [amount=" + amount + ", choc=" + choc + "]";
 	}
 
 }

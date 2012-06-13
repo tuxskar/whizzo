@@ -17,4 +17,18 @@ public class CrunchyFrog implements Chocolate {
 		return type;
 	}
 
+
+
+	public void setType(CHOCOLATETYPE type) {
+		this.type = type;
+	}
+
+	public static void setVALUE(double vALUE) {
+		VALUE = vALUE;
+	}
+
+	@Override
+	public String toString() {
+		return "CrunchyFrog [type=" + type + "]";
+	}
 }

@@ -10,6 +10,22 @@ public class RamBladerCup implements Chocolate {
         ramType = rtype;
 	}
 
+	public static double getVALUE() {
+		return VALUE;
+	}
+
+	public void setRamType(RAMTYPE ramType) {
+		this.ramType = ramType;
+	}
+
+	public void setType(CHOCOLATETYPE type) {
+		this.type = type;
+	}
+
+	public static void setVALUE(double vALUE) {
+		VALUE = vALUE;
+	}
+
 	public CHOCOLATETYPE getType () {
 		return type;
 	}
@@ -27,4 +43,10 @@ public class RamBladerCup implements Chocolate {
 		// TODO Auto-generated method stub
 		return null;
 	}
+
+	@Override
+	public String toString() {
+		return "RamBladerCup [ramType=" + ramType + ", type=" + type + "]";
+	}
+	
 }
