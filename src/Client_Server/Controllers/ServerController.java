@@ -14,10 +14,6 @@ import Models.Order.Order;
 
 public class ServerController extends UnicastRemoteObject implements C_SCommon {
 
-	/**
-	 * 
-	 */
-	private static final long serialVersionUID = 1L;
 	private static final int MAXCLIENTS = 5;
 	// This number is the maximum clients connected at the same time
 	private int no_clients = MAXCLIENTS;
@@ -71,6 +67,12 @@ public class ServerController extends UnicastRemoteObject implements C_SCommon {
 	public void start() throws RemoteException {
 		// TODO Auto-generated method stub
 
+	}
+	
+	public void show_logged_customers(){
+		for (Customer cus : customers){
+			view.logged_customer(cus);
+		}
 	}
 	
 	public void end_server(){

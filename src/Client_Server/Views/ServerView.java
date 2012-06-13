@@ -35,10 +35,10 @@ public class ServerView {
 				"Q: Exit from the system");
 		char op = (char)System.in.read();
 		switch (op){
-			case 'A' : 
-			break;
+			case 'A' : controller.show_logged_customers();
+				break;
 			case 'Q' : controller.end_server();
-			break;
+				break;
 		}		
 	}
 	

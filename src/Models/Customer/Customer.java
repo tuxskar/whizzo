@@ -13,6 +13,15 @@ public class Customer {
 	public int ID;
 	public int total;
 
+	public Customer(String name){
+		this.name = name;
+		this.contact = null;
+		this.address = null;
+		this.orders = null;
+		this.ID = 0;
+		this.total = 0;
+	}
+	
 	public Customer (String name, String contact, String address, int ID) {
 		this.name = name;
 		this.contact = contact;

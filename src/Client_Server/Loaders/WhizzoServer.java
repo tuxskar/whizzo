@@ -18,7 +18,7 @@ public class WhizzoServer {
 	private void run()
 	{
 		try {
-			LocateRegistry.createRegistry( 1099 );
+			LocateRegistry.createRegistry( 1098 );
 			
 			ServerController controller = new ServerController();
 			ServerView view = new ServerView( controller );
