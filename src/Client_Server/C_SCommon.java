@@ -8,7 +8,7 @@ import Models.Machine.Machine;
 import Models.Order.Order;
 
 public interface C_SCommon extends Remote {
-	public static final String SERVICE_NAME = "whizzoSystem";
+	public static final String SERVICE_NAME = "whizzo";
 
 	public void start() throws RemoteException; // for admin loggins
 	public void customer_logged(Customer customer) throws RemoteException; // for usual user loggins

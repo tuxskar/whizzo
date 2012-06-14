@@ -1,10 +1,10 @@
 package Client_Server.Controllers;
 
-import java.rmi.Naming;
+import static Client_Server.C_SCommon.SERVICE_NAME;
 
+import java.rmi.Naming;
 import Client_Server.C_SCommon;
 import Client_Server.Views.ClientView;
-import Models.Customer.Customer;
 
 public class ClientController {
 	ClientView view;
@@ -16,15 +16,17 @@ public class ClientController {
 		this.view = view;
 		
 		try {
+//			Registry registry = LocateRegistry.getRegistry(SERVICE_NAME, 1099); 
+//			C_SCommon stub = (C_SCommon) registry.lookup(SERVICE_NAME);
 			String ip = view.inputIp();
 			ip = "127.0.0.1";
-			String url = "rmi://" + ip + "/" + C_SCommon.SERVICE_NAME;
+			String url = "rmi://" + ip + "/" + SERVICE_NAME;
 			
 			server = (C_SCommon) Naming.lookup( url );
-			
-			String username = view.customer_name();
-			Customer cus = new Customer(username);
-			server.customer_logged(cus);
+//			
+//			String username = view.customer_name();
+//			Customer cus = new Customer(username);
+//			server.customer_logged(cus);
 			
 		} catch( Exception ex ) {
 			ex.printStackTrace();
