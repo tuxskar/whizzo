@@ -3,7 +3,6 @@ package Client_Server.Controllers;
 import java.net.InetAddress;
 import java.rmi.RemoteException;
 import java.rmi.server.UnicastRemoteObject;
-import java.util.ArrayList;
 import java.util.List;
 
 import Client_Server.C_SCommon;
@@ -12,7 +11,7 @@ import Models.Customer.Customer;
 import Models.Machine.Machine;
 import Models.Order.Order;
 
-public class ServerController extends UnicastRemoteObject implements C_SCommon {
+public class ServerController extends UnicastRemoteObject implements C_SCommon{
 
 	/**
 	 * 
@@ -24,9 +23,11 @@ public class ServerController extends UnicastRemoteObject implements C_SCommon {
 	private List<Customer> customers;
 	private ServerView view;
 
-	public ServerController() throws RemoteException {
-		customers = new ArrayList<Customer>(MAXCLIENTS);
-	}
+	public ServerController()
+			throws RemoteException
+		{
+		super();
+		}
 
 	@Override
 	public synchronized void customer_logged(Customer customer)
@@ -71,6 +72,12 @@ public class ServerController extends UnicastRemoteObject implements C_SCommon {
 	public void start() throws RemoteException {
 		// TODO Auto-generated method stub
 
+	}
+	
+	public void show_logged_customers(){
+		for (Customer cus : customers){
+			view.logged_customer(cus);
+		}
 	}
 	
 	public void end_server(){
